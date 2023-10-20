@@ -19,7 +19,7 @@
 </br>
 </br>
 
-## 🤖 커리큘럼
+# 🤖 커리큘럼
 <table align="center" width=100%>
 <tr>
 	<td rowspan="2" colspan=2 align="center">
