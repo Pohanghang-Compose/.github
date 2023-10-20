@@ -1,11 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&animation=twinkling&height=230&text=DO%20SOPT%20%333rd%20Jetpack%20Compose%20Study&desc=Team.%20포항항ꉂꉂ(ᵔᗜᵔ*)&fontSize=40&fontAlign=50&fontAlignY=33&descSize=20&descAlign=50&descAlignY=55)  
 
+# 👨‍👩‍👧‍👦 Members
 
-## 📚 Study Notion
-[NOTION](https://www.notion.so/dosopt/58a04f993f584ad3902c7d0ff199e019?pvs=4)   
+|<img src="https://avatars.githubusercontent.com/u/52882799?s=70&v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/91793891?v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/90740783?v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/83583757?v=4" width="128" />| 
+|:---------:|:---------:|:---------:|:---------:|
+|[👑박동민](https://github.com/chattymin)|[박강희](https://github.com/stella-halo)|[조관희](https://github.com/Jokwanhee)|[강유리](https://github.com/kangyuri1114)|
 
-</br></br>
-
+</br>
+</br>
 
 ## 🤖 커리큘럼
 <table align="center" width=100%>
@@ -556,9 +558,3 @@
 
 <br>
 <br>
-
-# 👨‍👩‍👧‍👦 Members
-
-|<img src="https://avatars.githubusercontent.com/u/52882799?s=70&v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/91793891?v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/90740783?v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/83583757?v=4" width="128" />| 
-|:---------:|:---------:|:---------:|:---------:|
-|[👑박동민](https://github.com/chattymin)|[박강희](https://github.com/stella-halo)|[조관희](https://github.com/Jokwanhee)|[강유리](https://github.com/kangyuri1114)|
