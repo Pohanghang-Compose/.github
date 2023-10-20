@@ -559,6 +559,6 @@
 
 # 👨‍👩‍👧‍👦 Members
 
-|<img src="https://avatars.githubusercontent.com/u/52882799?s=70&v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/102720771?v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/103233513?v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/138277645?v=4" width="128" />| 
+|<img src="https://avatars.githubusercontent.com/u/52882799?s=70&v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/91793891?v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/90740783?v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/83583757?v=4" width="128" />| 
 |:---------:|:---------:|:---------:|:---------:|
 |[👑박동민](https://github.com/chattymin)|[박강희](https://github.com/stella-halo)|[조관희](https://github.com/Jokwanhee)|[강유리](https://github.com/kangyuri1114)|
