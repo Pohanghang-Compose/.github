@@ -49,7 +49,7 @@
 		🙆‍♂️
 	</td>
 	<td align="center">
-		🙅‍♂️
+		🙅‍♀️
 	</td>
 </tr>
 </table>
