@@ -19,6 +19,14 @@
 </br>
 </br>
 
+# 🧾 과제 목차
+
+1주차 : [프로필 카드 구현 ](#1주차-프로필-카드-구현)
+
+</br>
+</br>
+
+
 # 🤖 커리큘럼
 <table align="center" width=100%>
 <tr>
@@ -71,8 +79,8 @@
 		과제
 	</td>
 	<td colspan=4 align="center">
-	  프로필 카드 구현
-  </td>
+	  	프로필 카드 구현
+  	</td>
 </tr>
 <tr>
 	<td rowspan="2" colspan=2 align="center">
@@ -99,7 +107,7 @@
 		🔥
 	</td>
 	<td align="center">
-		🔥
+		🙆‍♂️
 	</td>
 	<td align="center">
 		🙆‍♂️
@@ -565,6 +573,19 @@
 	</td>
 </tr>
 </table>
+
+<br>
+<br>
+
+## 1주차 프로필 카드 구현 
+<img width="480" alt="compose 과제" src="https://github.com/Pohanghang-Compose/.github/assets/52882799/70cca1a8-ae47-40ec-af23-456a1f875ea2">  
+<br>
+
+조건   
+위 프로필 카드 클론코딩하기   
+이미지는 [coil 라이브러리](https://github.com/coil-kt/coil) 활용하여 이미지 로딩하기!   
+
+
 
 <br>
 <br>
