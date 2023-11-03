@@ -601,6 +601,7 @@ https://github.com/Pohanghang-Compose/.github/assets/52882799/3b5b5e25-6b4b-4b1b
 1. Card 레이아웃을 활용해서 화면 구성하기
 2. item 객체를 만들고, 객체 배열을 만들기
 3. LazyColumn과 item 배열을 활용하여 영상과 비슷한 카탈로그 만들기~
+4. 이미지는 coil 라이브러리를 활용해서!!!
 </br>
 화면에 들어가는 내용은 자유! 단, 최소 이미지와 텍스트는 들어가야함!  
 
