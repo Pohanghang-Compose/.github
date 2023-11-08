@@ -23,6 +23,7 @@
 
 1주차 : [프로필 카드 구현 ](#1주차-프로필-카드-구현)  
 2주차 : [카탈로그 앱 구현 ](#2주차-카탈로그-앱-구현)  
+2주차 : [만족도 조사 앱 구현 ](#2주차-카탈로그-앱-구현)  
 
 </br>
 </br>
@@ -591,9 +592,6 @@
 <br>
 
 ## 2주차 카탈로그 앱 구현   
-
-
-
 https://github.com/Pohanghang-Compose/.github/assets/52882799/3b5b5e25-6b4b-4b1b-80e9-4c92ad7f49ec
 
 
@@ -604,6 +602,19 @@ https://github.com/Pohanghang-Compose/.github/assets/52882799/3b5b5e25-6b4b-4b1b
 4. 이미지는 coil 라이브러리를 활용해서!!!
 </br>
 화면에 들어가는 내용은 자유! 단, 최소 이미지와 텍스트는 들어가야함!  
+
+</br>
+</br>  
+
+## 3주차 만족도 조사 앱 구현   
+https://github.com/Pohanghang-Compose/.github/assets/52882799/20ac7b2a-92bb-41f2-bfd7-e3ac513a7680
+
+구현 조건  
+1. Canvas를 활용하여 custom ProgrgrassBar 구현
+2. Dialog 사용
+3. DropDownMenu 구현
+4. 해당 기술을 사용했다면 나머진 자유!!
+</br>
 
 
 
