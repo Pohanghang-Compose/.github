@@ -201,7 +201,7 @@
 		과제
 	</td>
 	<td colspan=4 align="center">
-		미정
+		만족도 조사 앱 구현하기
   </td>
 </tr>
 <tr>
