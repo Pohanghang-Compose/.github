@@ -255,7 +255,7 @@
 		과제
 	</td>
 	<td colspan=4 align="center">
-		ToDo 앱 구현하기
+		만족도 조사앱 with 애니메이션
   </td>
 </tr>
 <tr>
@@ -309,7 +309,7 @@
 		과제
 	</td>
 	<td colspan=4 align="center">
-	  미정
+	  ToDo 앱 구현하기
   </td>
 </tr>
 <tr>
