@@ -227,7 +227,7 @@
 		🙆‍♂️
 	</td>
 	<td align="center">
-		🔥
+		🙅‍♀️
 	</td>
 	<td align="center">
 		🙆‍♂️
@@ -281,13 +281,13 @@
 		🙆‍♂️
 	</td>
 	<td align="center">
-		🔥
+		🙅‍♀️
 	</td>
 	<td align="center">
-		🔥
+		🙆‍♂️
 	</td>
 	<td align="center">
-		🔥
+		🙆‍♂️
 	</td>
 </tr>
 <tr>
@@ -310,7 +310,7 @@
 		과제
 	</td>
 	<td colspan=4 align="center">
-	  ToDo 앱 구현하기
+	  합동세미나를 위해 쉬어갑니다!
   </td>
 </tr>
 <tr>
@@ -332,16 +332,16 @@
 </tr>
 <tr>
   <td align="center">
-		👨‍💻
+		🙆‍♂️
 	</td>
 	<td align="center">
-		👩‍💻
+		🙆‍♂️
 	</td>
 	<td align="center">
-		👨‍💻
+		🙆‍♂️
 	</td>
 	<td align="center">
-		👩‍💻
+		🙆‍♂️
 	</td>
 </tr>
 <tr>
