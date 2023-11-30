@@ -364,7 +364,7 @@
 		과제
 	</td>
 	<td colspan=4 align="center">
-		미정
+		Jetpack Compose에서 LiveData or Flow를 왜 remember가 있는데 쓸까?
   </td>
 </tr>
 <tr>
@@ -386,16 +386,16 @@
 </tr>
 <tr>
   <td align="center">
-		👨‍💻
+		🔥
 	</td>
 	<td align="center">
-		👩‍💻
+		🔥
 	</td>
 	<td align="center">
-		👨‍💻
+		🔥
 	</td>
 	<td align="center">
-		👩‍💻
+		🔥
 	</td>
 </tr>
 <tr>
