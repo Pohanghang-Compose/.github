@@ -25,7 +25,7 @@
 2주차 : [카탈로그 앱 구현 ](#2주차-카탈로그-앱-구현)  
 3주차 : [만족도 조사 앱 구현 ](#3주차-만족도-조사-앱-구현)  
 4주차 : [만족도 조사 앱 with 애니메이션 ](#4주차-만족도-조사-앱-with-애니메이션)   
-6주차 : [6주차 Compose에는 remember가 있는데 왜 Flow랑 LiveData를 쓸까? ](#6주차-Compose에는-remember가-있는데-왜-Flow랑-LiveData를-쓸까?)   
+6주차 : [rememver vs LivdData ](#6주차-remember-vs-LiveData)   
 
 
 </br>
@@ -633,7 +633,8 @@ https://github.com/Pohanghang-Compose/.github/assets/52882799/11798891-e199-4544
 <br>
 
 
-## 6주차 Compose에는 remember가 있는데 왜 Flow랑 LiveData를 쓸까?
+## 6주차 rememver vs LivdData 
+Compose에는 remember가 있는데 왜 Flow랑 LiveData를 쓸까?   
 확실한 근거와 함께 조사해오기!!   
 
 
