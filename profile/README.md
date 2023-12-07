@@ -388,16 +388,16 @@
 </tr>
 <tr>
   <td align="center">
-		🔥
+		🙆‍♂️
 	</td>
 	<td align="center">
-		🔥
+		🙆‍♂️
 	</td>
 	<td align="center">
-		🔥
+		🙆‍♂️
 	</td>
 	<td align="center">
-		🔥
+		🙆‍♂️
 	</td>
 </tr>
 <tr>
@@ -420,7 +420,7 @@
 		과제
 	</td>
 	<td colspan=4 align="center">
-		미정
+		앱잼 야무진 팀 들어가서 야무지게 구현하기!!
   </td>
 </tr>
 <tr>
@@ -442,16 +442,16 @@
 </tr>
 <tr>
   <td align="center">
-		👨‍💻
+		🔥
 	</td>
 	<td align="center">
-		👩‍💻
+		🔥
 	</td>
 	<td align="center">
-		👨‍💻
+		🔥
 	</td>
 	<td align="center">
-		👩‍💻
+		🔥
 	</td>
 </tr>
 <tr>
