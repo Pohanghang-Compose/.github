@@ -1,5 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&animation=twinkling&height=230&text=DO%20SOPT%20%333rd%20Jetpack%20Compose%20Study&desc=Team.%20포항항ꉂꉂ(ᵔᗜᵔ*)&fontSize=40&fontAlign=50&fontAlignY=33&descSize=20&descAlign=50&descAlignY=55)  
 
+# 🗓️ Seasons
+**Season 1** : 23.10 ~ 23.12   
+**Season2** : 24.02 ~
+
+</br>
+</br>
+
 # 👨‍👩‍👧‍👦 Members
 
 |<img src="https://avatars.githubusercontent.com/u/52882799?s=70&v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/91793891?v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/90740783?v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/83583757?v=4" width="128" />| 
@@ -20,13 +27,25 @@
 </br>
 
 # 🧾 과제 목차
+## 2기 과제 목차
+1주차 : MVI 공부해오기   
+2주차 : MVI를 적용한 xml mock 프로젝트 구현   
+3주차 : DO SOPT Android 1, 2주차 Migration to Compose + MVI   
+4주차 : DO SOPT Android 3, 4주차 Migration to Compose + MVI   
+5주차 : DO SOPT Android 6, 7주차 Migration to Compose + MVI   
+6주차 : Jetpack Compose + MVI 프로젝트 시작 ~    
+이후 일정 미정
+
+## 1기 과제 목차
+<details>
+<summary>1기 과제 목차</summary>
 
 1주차 : [프로필 카드 구현 ](#1주차-프로필-카드-구현)  
 2주차 : [카탈로그 앱 구현 ](#2주차-카탈로그-앱-구현)  
 3주차 : [만족도 조사 앱 구현 ](#3주차-만족도-조사-앱-구현)  
 4주차 : [만족도 조사 앱 with 애니메이션 ](#4주차-만족도-조사-앱-with-애니메이션)   
 6주차 : [rememver vs LivdData ](#6주차-remember-vs-LiveData)   
-
+</details>
 
 </br>
 </br>
@@ -66,6 +85,263 @@
 	</td>
 </tr>
 </table>
+
+## 2기 커리큘럼
+
+<table align="center" width=100%>
+<tr>
+	<td rowspan="4" colspan="2" align="center">
+		<b>WEEK 1</b>
+		<br>
+		 2/14 ~ 2/23
+	</td>
+	<td colspan="6" align="center">
+		 MVI란 무엇일까? 어떻게 쓰고, 왜 쓰는지 공부해오기
+	</td>
+</tr>
+<tr>
+	<td colspan=2 align="center">
+		과제
+	</td>
+	<td colspan=4 align="center">
+	  	대면 발표 자료 준비 및 발표
+  	</td>
+</tr>
+<tr>
+	<td rowspan="2" colspan=2 align="center">
+		성취도
+	</td>
+		<td align="center">
+		동민
+	</td>
+	<td align="center">
+		강희
+	</td>
+	<td align="center">
+		관희
+	</td>
+	<td align="center">
+		유리
+	</td>
+</tr>
+<tr>
+  <td align="center">
+		🔥
+	</td>
+	<td align="center">
+		🔥
+	</td>
+	<td align="center">
+		🔥
+	</td>
+	<td align="center">
+		🔥
+	</td>
+</tr>
+<tr>
+	<td rowspan="4" colspan="2" align="center">
+		<b>WEEK 2</b>
+		<br>
+		 2/24 ~ 2/27
+	</td>
+	<td colspan="6" align="center">
+		 기존 프로젝트 혹은 간단한 프로젝트를 MVI로 구현해보기
+	</td>
+</tr>
+<tr>
+	<td colspan=2 align="center">
+		과제
+	</td>
+	<td colspan=4 align="center">
+	  	야무지게 구현해오기
+  	</td>
+</tr>
+<tr>
+	<td rowspan="2" colspan=2 align="center">
+		성취도
+	</td>
+		<td align="center">
+		동민
+	</td>
+	<td align="center">
+		강희
+	</td>
+	<td align="center">
+		관희
+	</td>
+	<td align="center">
+		유리
+	</td>
+</tr>
+<tr>
+  <td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
+		👨‍💻
+	</td>
+</tr>
+<tr>
+	<td rowspan="4" colspan="2" align="center">
+		<b>WEEK 3</b>
+		<br>
+		 2/28 ~ 3/5
+	</td>
+	<td colspan="6" align="center">
+		 <b>SOPT 1, 2주차</b> 내용 적용하여 Compose + MVI로 코드구현
+	</td>
+</tr>
+<tr>
+	<td colspan=2 align="center">
+		과제
+	</td>
+	<td colspan=4 align="center">
+	  	야무지게 구현해오기
+  	</td>
+</tr>
+<tr>
+	<td rowspan="2" colspan=2 align="center">
+		성취도
+	</td>
+		<td align="center">
+		동민
+	</td>
+	<td align="center">
+		강희
+	</td>
+	<td align="center">
+		관희
+	</td>
+	<td align="center">
+		유리
+	</td>
+</tr>
+<tr>
+  <td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
+		👨‍💻
+	</td>
+</tr>
+<tr>
+	<td rowspan="4" colspan="2" align="center">
+		<b>WEEK 4</b>
+		<br>
+		 3/6 ~ 3/12
+	</td>
+	<td colspan="6" align="center">
+		 <b>SOPT 3, 4주차</b> 내용 적용하여 Compose + MVI로 코드구현
+	</td>
+</tr>
+<tr>
+	<td colspan=2 align="center">
+		과제
+	</td>
+	<td colspan=4 align="center">
+	  	야무지게 구현해오기
+  	</td>
+</tr>
+<tr>
+	<td rowspan="2" colspan=2 align="center">
+		성취도
+	</td>
+		<td align="center">
+		동민
+	</td>
+	<td align="center">
+		강희
+	</td>
+	<td align="center">
+		관희
+	</td>
+	<td align="center">
+		유리
+	</td>
+</tr>
+<tr>
+  <td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
+		👨‍💻
+	</td>
+</tr>
+<tr>
+	<td rowspan="4" colspan="2" align="center">
+		<b>WEEK 5</b>
+		<br>
+		 3/13 ~ 3/19
+	</td>
+	<td colspan="6" align="center">
+		 <b>SOPT 6, 7주차</b> 내용 적용하여 Compose + MVI로 코드구현
+	</td>
+</tr>
+<tr>
+	<td colspan=2 align="center">
+		과제
+	</td>
+	<td colspan=4 align="center">
+	  	야무지게 구현해오기 </br>
+		스몰 프로젝트 아이디어 정해오기
+  	</td>
+</tr>
+<tr>
+	<td rowspan="2" colspan=2 align="center">
+		성취도
+	</td>
+		<td align="center">
+		동민
+	</td>
+	<td align="center">
+		강희
+	</td>
+	<td align="center">
+		관희
+	</td>
+	<td align="center">
+		유리
+	</td>
+</tr>
+<tr>
+  <td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
+		👨‍💻
+	</td>
+</tr>
+</table>
+
+
+## 1기 커리큘럼
+
+<details>
+<summary>1기 커리큘럼</summary>
 
 <table align="center" width=100%>
 <tr>
@@ -579,10 +855,18 @@
 </tr>
 </table>
 
+</details>
+
 <br>
 <br>
 
 # 🔖 과제 리스트
+
+## 2기 과제
+
+## 1기 과제
+<details>
+<summary>1기 과제</summary>
 
 ## 1주차 프로필 카드 구현 
 <img width="480" alt="compose 과제" src="https://github.com/Pohanghang-Compose/.github/assets/52882799/70cca1a8-ae47-40ec-af23-456a1f875ea2">  
@@ -637,6 +921,7 @@ https://github.com/Pohanghang-Compose/.github/assets/52882799/11798891-e199-4544
 Compose에는 remember가 있는데 왜 Flow랑 LiveData를 쓸까?   
 확실한 근거와 함께 조사해오기!!   
 
+</details>
 
 
 <br>
