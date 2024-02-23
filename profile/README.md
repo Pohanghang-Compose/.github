@@ -28,7 +28,7 @@
 
 # 🧾 과제 목차
 ## 2기 과제 목차
-1주차 : [MVI 공부해오기](#1주차-:-MVI-공부해오기)   
+1주차 : [MVI 공부해오기](#1주차-MVI-공부해오기)   
 2주차 : MVI를 적용한 xml mock 프로젝트 구현   
 3주차 : DO SOPT Android 1, 2주차 Migration to Compose + MVI   
 4주차 : DO SOPT Android 3, 4주차 Migration to Compose + MVI   
@@ -864,7 +864,7 @@
 
 ## 2기 과제
 
-## 1주차 과제 : MVI 공부해오기
+## 1주차 MVI 공부해오기
 [동민 : MVI란 무엇일까?](https://buttered-joggers-9b8.notion.site/1-MVI-ed19c06a33094f6893692ebf7e0efa37?pvs=4)   
 [강희 : 나도한다. MVI](https://buttered-joggers-9b8.notion.site/MVI-00451c637f964fff8c51cfea8deca32f?pvs=4)   
 [관희 : MVI](https://buttered-joggers-9b8.notion.site/MVI-0cca9eb47f2141e8a0b52aa333a8f5a3?pvs=4)   
