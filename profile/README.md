@@ -2,7 +2,7 @@
 
 # 🗓️ Seasons
 **Season 1** : 23.10 ~ 23.12   
-**Season2** : 24.02 ~
+**Season 2** : 24.02 ~
 
 </br>
 </br>
@@ -29,11 +29,14 @@
 # 🧾 과제 목차
 ## 2기 과제 목차
 1주차 : [MVI 공부해오기](#1주차-MVI-공부해오기)   
-2주차 : MVI를 적용한 xml mock 프로젝트 구현   
-3주차 : DO SOPT Android 1, 2주차 Migration to Compose + MVI   
-4주차 : DO SOPT Android 3, 4주차 Migration to Compose + MVI   
-5주차 : DO SOPT Android 6, 7주차 Migration to Compose + MVI   
-6주차 : Jetpack Compose + MVI 프로젝트 시작 ~    
+2주차 ~ 3주차 : [MVI + orbit을 적용한 Compose 프로젝트 클론코딩](2주차-~-3주차-클론코딩)   
+4주차 : DO SOPT Android 1주차 Migration to Compose + MVI   
+5주차 : DO SOPT Android 1주차 Migration to Compose + MVI   
+6주차 : DO SOPT Android 3주차 Migration to Compose + MVI   
+7주차 : DO SOPT Android 4주차 Migration to Compose + MVI   
+8주차 : DO SOPT Android 6주차 Migration to Compose + MVI   
+9주차 : DO SOPT Android 7주차 Migration to Compose + MVI   
+10주차 : Jetpack Compose + MVI 프로젝트 시작 ~    
 이후 일정 미정
 
 ## 1기 과제 목차
@@ -140,12 +143,12 @@
 </tr>
 <tr>
 	<td rowspan="4" colspan="2" align="center">
-		<b>WEEK 2</b>
+		<b>WEEK 2 ~ WEEK 3</b>
 		<br>
-		 2/24 ~ 2/27
+		 2/24 ~ 3/5
 	</td>
 	<td colspan="6" align="center">
-		 기존 프로젝트 혹은 간단한 프로젝트를 MVI로 구현해보기
+		 Compose + orbit 프로젝트 클론코딩하기
 	</td>
 </tr>
 <tr>
@@ -185,55 +188,6 @@
 	</td>
 	<td align="center">
 		🔥
-	</td>
-</tr>
-<tr>
-	<td rowspan="4" colspan="2" align="center">
-		<b>WEEK 3</b>
-		<br>
-		 2/28 ~ 3/5
-	</td>
-	<td colspan="6" align="center">
-		 <b>SOPT 1, 2주차</b> 내용 적용하여 Compose + MVI로 코드구현
-	</td>
-</tr>
-<tr>
-	<td colspan=2 align="center">
-		과제
-	</td>
-	<td colspan=4 align="center">
-	  	야무지게 구현해오기
-  	</td>
-</tr>
-<tr>
-	<td rowspan="2" colspan=2 align="center">
-		성취도
-	</td>
-		<td align="center">
-		동민
-	</td>
-	<td align="center">
-		강희
-	</td>
-	<td align="center">
-		관희
-	</td>
-	<td align="center">
-		유리
-	</td>
-</tr>
-<tr>
-  <td align="center">
-		👨‍💻
-	</td>
-	<td align="center">
-		👨‍💻
-	</td>
-	<td align="center">
-		👨‍💻
-	</td>
-	<td align="center">
-		👨‍💻
 	</td>
 </tr>
 <tr>
@@ -243,7 +197,7 @@
 		 3/6 ~ 3/12
 	</td>
 	<td colspan="6" align="center">
-		 <b>SOPT 3, 4주차</b> 내용 적용하여 Compose + MVI로 코드구현
+		 <b>SOPT 1주차</b> 내용 적용하여 Compose + MVI로 코드구현
 	</td>
 </tr>
 <tr>
@@ -292,7 +246,7 @@
 		 3/13 ~ 3/19
 	</td>
 	<td colspan="6" align="center">
-		 <b>SOPT 6, 7주차</b> 내용 적용하여 Compose + MVI로 코드구현
+		 <b>SOPT 2주차</b> 내용 적용하여 Compose + MVI로 코드구현
 	</td>
 </tr>
 <tr>
@@ -300,8 +254,211 @@
 		과제
 	</td>
 	<td colspan=4 align="center">
-	  	야무지게 구현해오기 </br>
-		스몰 프로젝트 아이디어 정해오기
+	  	야무지게 구현해오기
+  	</td>
+</tr>
+<tr>
+	<td rowspan="2" colspan=2 align="center">
+		성취도
+	</td>
+		<td align="center">
+		동민
+	</td>
+	<td align="center">
+		강희
+	</td>
+	<td align="center">
+		관희
+	</td>
+	<td align="center">
+		유리
+	</td>
+</tr>
+<tr>
+  <td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
+		👨‍💻
+	</td>
+</tr>
+<tr>
+	<td rowspan="4" colspan="2" align="center">
+		<b>WEEK 6</b>
+		<br>
+		 3/20 ~ 3/26
+	</td>
+	<td colspan="6" align="center">
+		 <b>SOPT 3주차</b> 내용 적용하여 Compose + MVI로 코드구현
+	</td>
+</tr>
+<tr>
+	<td colspan=2 align="center">
+		과제
+	</td>
+	<td colspan=4 align="center">
+	  	야무지게 구현해오기
+  	</td>
+</tr>
+<tr>
+	<td rowspan="2" colspan=2 align="center">
+		성취도
+	</td>
+		<td align="center">
+		동민
+	</td>
+	<td align="center">
+		강희
+	</td>
+	<td align="center">
+		관희
+	</td>
+	<td align="center">
+		유리
+	</td>
+</tr>
+<tr>
+  <td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
+		👨‍💻
+	</td>
+</tr>
+<tr>
+	<td rowspan="4" colspan="2" align="center">
+		<b>WEEK 7</b>
+		<br>
+		 3/26 ~ 4/2
+	</td>
+	<td colspan="6" align="center">
+		 <b>SOPT 4주차</b> 내용 적용하여 Compose + MVI로 코드구현
+	</td>
+</tr>
+<tr>
+	<td colspan=2 align="center">
+		과제
+	</td>
+	<td colspan=4 align="center">
+	  	야무지게 구현해오기
+  	</td>
+</tr>
+<tr>
+	<td rowspan="2" colspan=2 align="center">
+		성취도
+	</td>
+		<td align="center">
+		동민
+	</td>
+	<td align="center">
+		강희
+	</td>
+	<td align="center">
+		관희
+	</td>
+	<td align="center">
+		유리
+	</td>
+</tr>
+<tr>
+  <td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
+		👨‍💻
+	</td>
+</tr>
+<tr>
+	<td colspan="8" align="center">
+		<b>< 중간고사 대비기간></b>
+		<br>
+		 2주 동안 스터디도 쉬어갑니다 👋🏻
+	</td>
+	<br/>
+</tr>
+<tr>
+	<td rowspan="4" colspan="2" align="center">
+		<b>WEEK 8</b>
+		<br>
+		 4/17 ~ 4/23
+	</td>
+	<td colspan="6" align="center">
+		 <b>SOPT 6주차</b> 내용 적용하여 Compose + MVI로 코드구현
+	</td>
+</tr>
+<tr>
+	<td colspan=2 align="center">
+		과제
+	</td>
+	<td colspan=4 align="center">
+	  	야무지게 구현해오기
+  	</td>
+</tr>
+<tr>
+	<td rowspan="2" colspan=2 align="center">
+		성취도
+	</td>
+		<td align="center">
+		동민
+	</td>
+	<td align="center">
+		강희
+	</td>
+	<td align="center">
+		관희
+	</td>
+	<td align="center">
+		유리
+	</td>
+</tr>
+<tr>
+  <td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
+		👨‍💻
+	</td>
+</tr>
+<tr>
+	<td rowspan="4" colspan="2" align="center">
+		<b>WEEK 9</b>
+		<br>
+		 4/24 ~ 4/30
+	</td>
+	<td colspan="6" align="center">
+		 <b>SOPT 7주차</b> 내용 적용하여 Compose + MVI로 코드구현
+	</td>
+</tr>
+<tr>
+	<td colspan=2 align="center">
+		과제
+	</td>
+	<td colspan=4 align="center">
+	  	야무지게 구현해오기
   	</td>
 </tr>
 <tr>
@@ -870,6 +1027,9 @@
 [관희 : MVI](https://buttered-joggers-9b8.notion.site/MVI-0cca9eb47f2141e8a0b52aa333a8f5a3?pvs=4)   
 [유리 : MVI에 대해서](https://buttered-joggers-9b8.notion.site/1-MVI-2069c3a821804e42b94875711f46dd81?pvs=4)   
 
+## 2주차 ~ 3주차 클론코딩
+[Orbit MVI](https://orbit-mvi.org/)공부해오기[(github)](https://github.com/orbit-mvi/orbit-mvi)   
+[MVI Project](https://github.com/kaleidot725/Jetpack-Compose-Orbit-MVI-Demo) 클론 코딩 하기   
 
 ## 1기 과제
 <details>
