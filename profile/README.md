@@ -29,7 +29,7 @@
 # 🧾 과제 목차
 ## 2기 과제 목차
 1주차 : [MVI 공부해오기](#1주차-MVI-공부해오기)   
-2주차 ~ 3주차 : [MVI + orbit을 적용한 Compose 프로젝트 클론코딩](#2주차-~-3주차-클론코딩)   
+2주차 ~ 3주차 : [MVI + orbit을 적용한 Compose 프로젝트 클론코딩](#2주차-\~-3주차-클론코딩)   
 4주차 : DO SOPT Android 1주차 Migration to Compose + MVI   
 5주차 : DO SOPT Android 1주차 Migration to Compose + MVI   
 6주차 : DO SOPT Android 3주차 Migration to Compose + MVI   
@@ -1030,6 +1030,9 @@
 ## 2주차 ~ 3주차 클론코딩
 [Orbit MVI](https://orbit-mvi.org/)공부해오기[(github)](https://github.com/orbit-mvi/orbit-mvi)   
 [MVI Project](https://github.com/kaleidot725/Jetpack-Compose-Orbit-MVI-Demo) 클론 코딩 하기   
+
+ktor -> Retrofit은 자유!   
+예시는 멀티모듈을 사용했지만, 싱글모듈로 구현해도 됩니다   
 
 ## 1기 과제
 <details>
