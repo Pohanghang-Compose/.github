@@ -29,7 +29,7 @@
 # 🧾 과제 목차
 ## 2기 과제 목차
 1주차 : [MVI 공부해오기](#1주차-MVI-공부해오기)   
-2주차 ~ 3주차 : [MVI + orbit을 적용한 Compose 프로젝트 클론코딩](#2주차-\~-3주차-클론코딩)   
+2주차 ~ 3주차 : [MVI + orbit을 적용한 Compose 프로젝트 클론코딩](#2주차-3주차-클론코딩)   
 4주차 : DO SOPT Android 1주차 Migration to Compose + MVI   
 5주차 : DO SOPT Android 1주차 Migration to Compose + MVI   
 6주차 : DO SOPT Android 3주차 Migration to Compose + MVI   
@@ -1021,13 +1021,13 @@
 
 ## 2기 과제
 
-## 1주차 MVI 공부해오기
+### 1주차 MVI 공부해오기
 [동민 : MVI란 무엇일까?](https://buttered-joggers-9b8.notion.site/1-MVI-ed19c06a33094f6893692ebf7e0efa37?pvs=4)   
 [강희 : 나도한다. MVI](https://buttered-joggers-9b8.notion.site/MVI-00451c637f964fff8c51cfea8deca32f?pvs=4)   
 [관희 : MVI](https://buttered-joggers-9b8.notion.site/MVI-0cca9eb47f2141e8a0b52aa333a8f5a3?pvs=4)   
 [유리 : MVI에 대해서](https://buttered-joggers-9b8.notion.site/1-MVI-2069c3a821804e42b94875711f46dd81?pvs=4)   
 
-## 2주차 ~ 3주차 클론코딩
+### 2주차 3주차 클론코딩
 [Orbit MVI](https://orbit-mvi.org/)공부해오기[(github)](https://github.com/orbit-mvi/orbit-mvi)   
 [MVI Project](https://github.com/kaleidot725/Jetpack-Compose-Orbit-MVI-Demo) 클론 코딩 하기   
 
@@ -1038,7 +1038,7 @@ ktor -> Retrofit은 자유!
 <details>
 <summary>1기 과제</summary>
 
-## 1주차 프로필 카드 구현 
+### 1주차 프로필 카드 구현 
 <img width="480" alt="compose 과제" src="https://github.com/Pohanghang-Compose/.github/assets/52882799/70cca1a8-ae47-40ec-af23-456a1f875ea2">  
 <br>
 
@@ -1048,7 +1048,7 @@ ktor -> Retrofit은 자유!
 <br>
 <br>
 
-## 2주차 카탈로그 앱 구현   
+### 2주차 카탈로그 앱 구현   
 https://github.com/Pohanghang-Compose/.github/assets/52882799/3b5b5e25-6b4b-4b1b-80e9-4c92ad7f49ec
 
 
@@ -1063,7 +1063,7 @@ https://github.com/Pohanghang-Compose/.github/assets/52882799/3b5b5e25-6b4b-4b1b
 </br>
 </br>  
 
-## 3주차 만족도 조사 앱 구현   
+### 3주차 만족도 조사 앱 구현   
 https://github.com/Pohanghang-Compose/.github/assets/52882799/20ac7b2a-92bb-41f2-bfd7-e3ac513a7680
 
 구현 조건  
@@ -1075,7 +1075,7 @@ https://github.com/Pohanghang-Compose/.github/assets/52882799/20ac7b2a-92bb-41f2
 </br>
 </br>  
 
-## 4주차 만족도 조사 앱 with 애니메이션   
+### 4주차 만족도 조사 앱 with 애니메이션   
 https://github.com/Pohanghang-Compose/.github/assets/52882799/11798891-e199-4544-864a-b517b82f7759
 
 구현 조건
@@ -1087,7 +1087,7 @@ https://github.com/Pohanghang-Compose/.github/assets/52882799/11798891-e199-4544
 <br>
 
 
-## 6주차 rememver vs LivdData 
+### 6주차 rememver vs LivdData 
 Compose에는 remember가 있는데 왜 Flow랑 LiveData를 쓸까?   
 확실한 근거와 함께 조사해오기!!   
 
