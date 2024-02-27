@@ -1031,7 +1031,7 @@
 [Orbit MVI](https://orbit-mvi.org/)공부해오기[(github)](https://github.com/orbit-mvi/orbit-mvi)   
 [MVI Project](https://github.com/kaleidot725/Jetpack-Compose-Orbit-MVI-Demo) 클론 코딩 하기   
 
-ktor -> Retrofit은 자유!   
+koin -> Hilt 마이그레이션은 자유!   
 예시는 멀티모듈을 사용했지만, 싱글모듈로 구현해도 됩니다   
 
 ## 1기 과제
