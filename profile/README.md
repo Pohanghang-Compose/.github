@@ -8,10 +8,18 @@
 </br>
 
 # 👨‍👩‍👧‍👦 Members
+## 2기 멤버
+|<img src="https://avatars.githubusercontent.com/u/52882799?s=70&v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/91793891?v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/90740783?v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/83583757?v=4" width="128" />| <img src="https://avatars.githubusercontent.com/u/98825364?v=4" width="128" />| 
+|:---------:|:---------:|:---------:|:---------:|:---------:|
+|[👑박동민](https://github.com/chattymin)|[박강희](https://github.com/stellar-halo)|[조관희](https://github.com/Jokwanhee)|[강유리](https://github.com/kangyuri1114)|[이태희](https://github.com/taeheeL)|
 
+<details>
+<summary>1기 멤버</summary>
+	
 |<img src="https://avatars.githubusercontent.com/u/52882799?s=70&v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/91793891?v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/90740783?v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/83583757?v=4" width="128" />| 
 |:---------:|:---------:|:---------:|:---------:|
 |[👑박동민](https://github.com/chattymin)|[박강희](https://github.com/stellar-halo)|[조관희](https://github.com/Jokwanhee)|[강유리](https://github.com/kangyuri1114)|
+</details>
 
 </br>
 </br>
@@ -98,7 +106,7 @@
 		<br>
 		 2/14 ~ 2/23
 	</td>
-	<td colspan="6" align="center">
+	<td colspan="7" align="center">
 		 MVI란 무엇일까? 어떻게 쓰고, 왜 쓰는지 공부해오기
 	</td>
 </tr>
@@ -106,7 +114,7 @@
 	<td colspan=2 align="center">
 		과제
 	</td>
-	<td colspan=4 align="center">
+	<td colspan=5 align="center">
 	  	대면 발표 자료 준비 및 발표
   	</td>
 </tr>
@@ -126,6 +134,9 @@
 	<td align="center">
 		유리
 	</td>
+	<td align="center">
+		??
+	</td>
 </tr>
 <tr>
   <td align="center">
@@ -140,6 +151,9 @@
 	<td align="center">
 		🙆‍♂️
 	</td>
+	<td align="center">
+		??
+	</td>
 </tr>
 <tr>
 	<td rowspan="4" colspan="2" align="center">
@@ -147,7 +161,7 @@
 		<br>
 		 2/24 ~ 3/5
 	</td>
-	<td colspan="6" align="center">
+	<td colspan="7" align="center">
 		 Compose + orbit 프로젝트 클론코딩하기
 	</td>
 </tr>
@@ -155,7 +169,7 @@
 	<td colspan=2 align="center">
 		과제
 	</td>
-	<td colspan=4 align="center">
+	<td colspan=5 align="center">
 	  	야무지게 구현해오기
   	</td>
 </tr>
@@ -175,9 +189,15 @@
 	<td align="center">
 		유리
 	</td>
+	<td align="center">
+		태희
+	</td>
 </tr>
 <tr>
   <td align="center">
+		🔥
+	</td>
+	<td align="center">
 		🔥
 	</td>
 	<td align="center">
@@ -196,7 +216,7 @@
 		<br>
 		 3/6 ~ 3/12
 	</td>
-	<td colspan="6" align="center">
+	<td colspan="7" align="center">
 		 <b>SOPT 1주차</b> 내용 적용하여 Compose + MVI로 코드구현
 	</td>
 </tr>
@@ -204,7 +224,7 @@
 	<td colspan=2 align="center">
 		과제
 	</td>
-	<td colspan=4 align="center">
+	<td colspan=5 align="center">
 	  	야무지게 구현해오기
   	</td>
 </tr>
@@ -224,9 +244,15 @@
 	<td align="center">
 		유리
 	</td>
+	<td align="center">
+		태희
+	</td>
 </tr>
 <tr>
   <td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
 		👨‍💻
 	</td>
 	<td align="center">
@@ -245,7 +271,7 @@
 		<br>
 		 3/13 ~ 3/19
 	</td>
-	<td colspan="6" align="center">
+	<td colspan="7" align="center">
 		 <b>SOPT 2주차</b> 내용 적용하여 Compose + MVI로 코드구현
 	</td>
 </tr>
@@ -253,7 +279,7 @@
 	<td colspan=2 align="center">
 		과제
 	</td>
-	<td colspan=4 align="center">
+	<td colspan=5 align="center">
 	  	야무지게 구현해오기
   	</td>
 </tr>
@@ -273,9 +299,15 @@
 	<td align="center">
 		유리
 	</td>
+	<td align="center">
+		태희
+	</td>
 </tr>
 <tr>
   <td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
 		👨‍💻
 	</td>
 	<td align="center">
@@ -294,7 +326,7 @@
 		<br>
 		 3/20 ~ 3/26
 	</td>
-	<td colspan="6" align="center">
+	<td colspan="7" align="center">
 		 <b>SOPT 3주차</b> 내용 적용하여 Compose + MVI로 코드구현
 	</td>
 </tr>
@@ -302,7 +334,7 @@
 	<td colspan=2 align="center">
 		과제
 	</td>
-	<td colspan=4 align="center">
+	<td colspan=5 align="center">
 	  	야무지게 구현해오기
   	</td>
 </tr>
@@ -322,9 +354,15 @@
 	<td align="center">
 		유리
 	</td>
+	<td align="center">
+		태희
+	</td>
 </tr>
 <tr>
   <td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
 		👨‍💻
 	</td>
 	<td align="center">
@@ -343,7 +381,7 @@
 		<br>
 		 3/26 ~ 4/2
 	</td>
-	<td colspan="6" align="center">
+	<td colspan="7" align="center">
 		 <b>SOPT 4주차</b> 내용 적용하여 Compose + MVI로 코드구현
 	</td>
 </tr>
@@ -351,7 +389,7 @@
 	<td colspan=2 align="center">
 		과제
 	</td>
-	<td colspan=4 align="center">
+	<td colspan=5 align="center">
 	  	야무지게 구현해오기
   	</td>
 </tr>
@@ -371,6 +409,9 @@
 	<td align="center">
 		유리
 	</td>
+	<td align="center">
+		태희
+	</td>
 </tr>
 <tr>
   <td align="center">
@@ -385,9 +426,12 @@
 	<td align="center">
 		👨‍💻
 	</td>
+	<td align="center">
+		👨‍💻
+	</td>
 </tr>
 <tr>
-	<td colspan="8" align="center">
+	<td colspan="9" align="center">
 		<b>< 중간고사 대비기간></b>
 		<br>
 		 2주 동안 스터디도 쉬어갑니다 👋🏻
@@ -400,7 +444,7 @@
 		<br>
 		 4/17 ~ 4/23
 	</td>
-	<td colspan="6" align="center">
+	<td colspan="7" align="center">
 		 <b>SOPT 6주차</b> 내용 적용하여 Compose + MVI로 코드구현
 	</td>
 </tr>
@@ -408,7 +452,7 @@
 	<td colspan=2 align="center">
 		과제
 	</td>
-	<td colspan=4 align="center">
+	<td colspan=5 align="center">
 	  	야무지게 구현해오기
   	</td>
 </tr>
@@ -428,9 +472,15 @@
 	<td align="center">
 		유리
 	</td>
+	<td align="center">
+		태희
+	</td>
 </tr>
 <tr>
   <td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
 		👨‍💻
 	</td>
 	<td align="center">
@@ -449,7 +499,7 @@
 		<br>
 		 4/24 ~ 4/30
 	</td>
-	<td colspan="6" align="center">
+	<td colspan="7" align="center">
 		 <b>SOPT 7주차</b> 내용 적용하여 Compose + MVI로 코드구현
 	</td>
 </tr>
@@ -457,7 +507,7 @@
 	<td colspan=2 align="center">
 		과제
 	</td>
-	<td colspan=4 align="center">
+	<td colspan=5 align="center">
 	  	야무지게 구현해오기
   	</td>
 </tr>
@@ -477,9 +527,15 @@
 	<td align="center">
 		유리
 	</td>
+	<td align="center">
+		태희
+	</td>
 </tr>
 <tr>
   <td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
 		👨‍💻
 	</td>
 	<td align="center">
