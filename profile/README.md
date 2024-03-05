@@ -38,7 +38,7 @@
 ## 2기 과제 목차
 1주차 : [MVI 공부해오기](#1주차-MVI-공부해오기)   
 2주차 ~ 3주차 : [MVI + orbit을 적용한 Compose 프로젝트 클론코딩](#2주차-3주차-클론코딩)   
-4주차 : [DO SOPT Android 1주차 Migration to Compose + MVI](#SOPT-1주차-마이그레이션)   
+4주차 : [DO SOPT Android 1주차 Migration to Compose + MVI](#4주차-SOPT-1주차-마이그레이션)   
 5주차 : DO SOPT Android 1주차 Migration to Compose + MVI   
 6주차 : DO SOPT Android 3주차 Migration to Compose + MVI   
 7주차 : DO SOPT Android 4주차 Migration to Compose + MVI   
