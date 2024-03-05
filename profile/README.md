@@ -38,7 +38,7 @@
 ## 2기 과제 목차
 1주차 : [MVI 공부해오기](#1주차-MVI-공부해오기)   
 2주차 ~ 3주차 : [MVI + orbit을 적용한 Compose 프로젝트 클론코딩](#2주차-3주차-클론코딩)   
-4주차 : DO SOPT Android 1주차 Migration to Compose + MVI   
+4주차 : [DO SOPT Android 1주차 Migration to Compose + MVI](#SOPT-1주차-마이그레이션)   
 5주차 : DO SOPT Android 1주차 Migration to Compose + MVI   
 6주차 : DO SOPT Android 3주차 Migration to Compose + MVI   
 7주차 : DO SOPT Android 4주차 Migration to Compose + MVI   
@@ -195,19 +195,19 @@
 </tr>
 <tr>
   <td align="center">
-		🔥
+		🙆‍♂️
 	</td>
 	<td align="center">
-		🔥
+		🙅‍♀️
 	</td>
 	<td align="center">
-		🔥
+		🙆‍♂️
 	</td>
 	<td align="center">
-		🔥
+		🙆‍♂️
 	</td>
 	<td align="center">
-		🔥
+		🙅‍♀️
 	</td>
 </tr>
 <tr>
@@ -250,19 +250,19 @@
 </tr>
 <tr>
   <td align="center">
-		👨‍💻
+		🔥
 	</td>
 	<td align="center">
-		👨‍💻
+		🔥
 	</td>
 	<td align="center">
-		👨‍💻
+		🔥
 	</td>
 	<td align="center">
-		👨‍💻
+		🔥
 	</td>
 	<td align="center">
-		👨‍💻
+		🔥
 	</td>
 </tr>
 <tr>
@@ -1081,7 +1081,9 @@
 [동민 : MVI란 무엇일까?](https://buttered-joggers-9b8.notion.site/1-MVI-ed19c06a33094f6893692ebf7e0efa37?pvs=4)   
 [강희 : 나도한다. MVI](https://buttered-joggers-9b8.notion.site/MVI-00451c637f964fff8c51cfea8deca32f?pvs=4)   
 [관희 : MVI](https://buttered-joggers-9b8.notion.site/MVI-0cca9eb47f2141e8a0b52aa333a8f5a3?pvs=4)   
-[유리 : MVI에 대해서](https://buttered-joggers-9b8.notion.site/1-MVI-2069c3a821804e42b94875711f46dd81?pvs=4)   
+[유리 : MVI에 대해서](https://buttered-joggers-9b8.notion.site/1-MVI-2069c3a821804e42b94875711f46dd81?pvs=4)    
+</br>
+</br>
 
 ### 2주차 3주차 클론코딩
 [Orbit MVI](https://orbit-mvi.org/)공부해오기[(github)](https://github.com/orbit-mvi/orbit-mvi)   
@@ -1089,6 +1091,23 @@
 
 koin -> Hilt 마이그레이션은 자유!   
 예시는 멀티모듈을 사용했지만, 싱글모듈로 구현해도 됩니다   
+
+</br>
+
+조관희의 꿀팁공유   
+- [intent Deep Dive with Orbit DSL](https://buttered-joggers-9b8.notion.site/intent-Deep-Dive-with-Orbit-DSL-947901f21b16431d87aa5fdb89c858ba?pvs=4)
+- [reduce Deep Dive with Orbit DSL](https://buttered-joggers-9b8.notion.site/reduce-Deep-Dive-with-Orbit-DSL-e5bc40bade624643a75774427402f2d2?pvs=4)
+- [postSideEffect Deep Dive with Orbit DSL](https://buttered-joggers-9b8.notion.site/postSideEffect-Deep-Dive-with-Orbit-DSL-f05b8aa7cd804f2bb562fce830520f23?pvs=4)
+
+</br>
+</br>
+
+### 4주차 SOPT 1주차 마이그레이션
+![image](https://github.com/Pohanghang-Compose/.github/assets/52882799/9a9e0328-5173-424b-b2ce-e0cb2b7a3f26)
+![image](https://github.com/Pohanghang-Compose/.github/assets/52882799/30e5c27e-7638-4b47-b7bd-7b4597d202cb)
+![image](https://github.com/Pohanghang-Compose/.github/assets/52882799/db7f9ddd-c433-4568-8cf9-41bbcebe4304)
+</br>
+</br>
 
 ## 1기 과제
 <details>
