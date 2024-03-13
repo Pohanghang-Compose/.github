@@ -39,7 +39,7 @@
 1주차 : [MVI 공부해오기](#1주차-MVI-공부해오기)   
 2주차 ~ 3주차 : [MVI + orbit을 적용한 Compose 프로젝트 클론코딩](#2주차-3주차-클론코딩)   
 4주차 : [DO SOPT Android 1주차 Migration to Compose + MVI](#4주차-SOPT-1주차-마이그레이션)   
-5주차 : DO SOPT Android 1주차 Migration to Compose + MVI   
+5주차 : [DO SOPT Android 1주차 Migration to Compose + MVI](#5주차-SOPT-2주차-마이그레이션)   
 6주차 : DO SOPT Android 3주차 Migration to Compose + MVI   
 7주차 : DO SOPT Android 4주차 Migration to Compose + MVI   
 8주차 : DO SOPT Android 6주차 Migration to Compose + MVI   
@@ -250,19 +250,19 @@
 </tr>
 <tr>
   <td align="center">
-		🔥
+		🙆‍♂️
 	</td>
 	<td align="center">
-		🔥
+		🙅‍♀️
 	</td>
 	<td align="center">
-		🔥
+		🙆‍♂️
 	</td>
 	<td align="center">
-		🔥
+		🙆‍♂️
 	</td>
 	<td align="center">
-		🔥
+		🙆‍♂️
 	</td>
 </tr>
 <tr>
@@ -305,19 +305,19 @@
 </tr>
 <tr>
   <td align="center">
-		👨‍💻
+		🔥
 	</td>
 	<td align="center">
-		👨‍💻
+		🔥
 	</td>
 	<td align="center">
-		👨‍💻
+		🔥
 	</td>
 	<td align="center">
-		👨‍💻
+		🔥
 	</td>
 	<td align="center">
-		👨‍💻
+		🔥
 	</td>
 </tr>
 <tr>
@@ -1084,6 +1084,7 @@
 [유리 : MVI에 대해서](https://buttered-joggers-9b8.notion.site/1-MVI-2069c3a821804e42b94875711f46dd81?pvs=4)    
 </br>
 </br>
+</br>
 
 ### 2주차 3주차 클론코딩
 [Orbit MVI](https://orbit-mvi.org/)공부해오기[(github)](https://github.com/orbit-mvi/orbit-mvi)   
@@ -1106,6 +1107,14 @@ koin -> Hilt 마이그레이션은 자유!
 ![image](https://github.com/Pohanghang-Compose/.github/assets/52882799/9a9e0328-5173-424b-b2ce-e0cb2b7a3f26)
 ![image](https://github.com/Pohanghang-Compose/.github/assets/52882799/30e5c27e-7638-4b47-b7bd-7b4597d202cb)
 ![image](https://github.com/Pohanghang-Compose/.github/assets/52882799/db7f9ddd-c433-4568-8cf9-41bbcebe4304)
+</br>
+</br>
+</br>
+
+### 5주차 SOPT 2주차 마이그레이션
+![스크린샷 2024-03-13 오후 10 13 42](https://github.com/Pohanghang-Compose/.github/assets/52882799/802d8625-a858-41f8-89de-822705e17f49)
+![스크린샷 2024-03-13 오후 10 13 06](https://github.com/Pohanghang-Compose/.github/assets/52882799/1e69597e-a28d-49b5-989c-c152077bf223)
+</br>
 </br>
 </br>
 
