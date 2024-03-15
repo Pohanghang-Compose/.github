@@ -29,7 +29,7 @@
 - feat/week1 등 새 브렌치를 만들고 해당하는 폴더를 생성하여 과제를 진행해주세요. </br>ex) week1 폴더 생성 및 week1 브랜치 생성 후 작업
 - PR에 **구현 사진** 혹은 **시연 영상**을 포함하여야 합니다.
 - 과제는 다음 스터디 시작일 **하루 전까지** 완료하셔야 합니다. </br>ex) 10월 26일 스터디 진행 -> 25일까지 과제
-- 서로서로 리뷰를 달아주면 더욱 좋겠죠?
+- 서로서로 리뷰를 달아주며 공부합니다!   
 
 </br>
 </br>
@@ -39,13 +39,12 @@
 1주차 : [MVI 공부해오기](#1주차-MVI-공부해오기)   
 2주차 ~ 3주차 : [MVI + orbit을 적용한 Compose 프로젝트 클론코딩](#2주차-3주차-클론코딩)   
 4주차 : [DO SOPT Android 1주차 Migration to Compose + MVI](#4주차-SOPT-1주차-마이그레이션)   
-5주차 : [DO SOPT Android 1주차 Migration to Compose + MVI](#5주차-SOPT-2주차-마이그레이션)   
+5주차 : [DO SOPT Android 2주차 Migration to Compose + MVI](#5주차-SOPT-2주차-마이그레이션)   
 6주차 : DO SOPT Android 3주차 Migration to Compose + MVI   
 7주차 : DO SOPT Android 4주차 Migration to Compose + MVI   
 8주차 : DO SOPT Android 6주차 Migration to Compose + MVI   
 9주차 : DO SOPT Android 7주차 Migration to Compose + MVI   
-10주차 : Jetpack Compose + MVI 프로젝트 시작 ~    
-이후 일정 미정
+
 
 ## 1기 과제 목차
 <details>
