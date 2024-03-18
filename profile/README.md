@@ -57,6 +57,7 @@
 6주차 : [rememver vs LivdData ](#6주차-remember-vs-LiveData)   
 </details>
 
+[포항항의 공부 레퍼런스 바로가기](#포항항-공부-레퍼런스)
 </br>
 </br>
 
@@ -1175,7 +1176,20 @@ Compose에는 remember가 있는데 왜 Flow랑 LiveData를 쓸까?
 확실한 근거와 함께 조사해오기!!   
 
 </details>
+<br>
+<br>
 
+## 포항항 공부 레퍼런스
+### UI
+- [TextField를 Custom 해보자!](https://medium.com/sungbinland/jetpack-compose-%EB%82%98%EB%A7%8C%EC%9D%98-textfield-%EB%A7%8C%EB%93%A4%EA%B8%B0-1d117b37d2a7)
+
+### Powerful Code 
+- [State를 저장하는 방법 - 공식문서](https://developer.android.com/jetpack/compose/state-saving)
+- [State를 저장하는 방법 SaveStateHandle](https://pluu.github.io/blog/android/2020/02/20/savedstatehandle/)
+- [collectAsStateWithLifecycle에 관하여](https://medium.com/hongbeomi-dev/jetpack-compose%EC%97%90%EC%84%9C-flow%EB%A5%BC-%EC%95%88%EC%A0%84%ED%95%98%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-a394a679909b)
+
+### Kotlin
+- [Data Object란?](https://twozerozero.medium.com/%EC%BD%94%ED%8B%80%EB%A6%B0-1-9-0-%EB%B6%80%ED%84%B0-%EC%B6%94%EA%B0%80%EB%90%9C-data-object-%ED%83%80%EC%9E%85-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-b22d9ab1d0eb)
 
 <br>
 <br>
