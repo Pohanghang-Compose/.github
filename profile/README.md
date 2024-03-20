@@ -40,7 +40,7 @@
 2주차 ~ 3주차 : [MVI + orbit을 적용한 Compose 프로젝트 클론코딩](#2주차-3주차-클론코딩)   
 4주차 : [DO SOPT Android 1주차 Migration to Compose + MVI](#4주차-SOPT-1주차-마이그레이션)   
 5주차 : [DO SOPT Android 2주차 Migration to Compose + MVI](#5주차-SOPT-2주차-마이그레이션)   
-6주차 : DO SOPT Android 3주차 Migration to Compose + MVI   
+6주차 : [DO SOPT Android 3주차 Migration to Compose + MVI](#6주차-SOPT-3주차-마이그레이션)   
 7주차 : DO SOPT Android 4주차 Migration to Compose + MVI   
 8주차 : DO SOPT Android 6주차 Migration to Compose + MVI   
 9주차 : DO SOPT Android 7주차 Migration to Compose + MVI   
@@ -305,19 +305,19 @@
 </tr>
 <tr>
   <td align="center">
-		🔥
+		🙆‍♂️
 	</td>
 	<td align="center">
-		🔥
+		🙅‍♀️
 	</td>
 	<td align="center">
-		🔥
+		🙆‍♂️
 	</td>
 	<td align="center">
-		🔥
+		🙆‍♂️
 	</td>
 	<td align="center">
-		🔥
+		🙆‍♂️
 	</td>
 </tr>
 <tr>
@@ -360,19 +360,19 @@
 </tr>
 <tr>
   <td align="center">
-		👨‍💻
+		🔥
 	</td>
 	<td align="center">
-		👨‍💻
+		🔥
 	</td>
 	<td align="center">
-		👨‍💻
+		🔥
 	</td>
 	<td align="center">
-		👨‍💻
+		🔥
 	</td>
 	<td align="center">
-		👨‍💻
+		🔥
 	</td>
 </tr>
 <tr>
@@ -1114,6 +1114,16 @@ koin -> Hilt 마이그레이션은 자유!
 ### 5주차 SOPT 2주차 마이그레이션
 ![스크린샷 2024-03-13 오후 10 13 42](https://github.com/Pohanghang-Compose/.github/assets/52882799/802d8625-a858-41f8-89de-822705e17f49)
 ![스크린샷 2024-03-13 오후 10 13 06](https://github.com/Pohanghang-Compose/.github/assets/52882799/1e69597e-a28d-49b5-989c-c152077bf223)
+</br>
+</br>
+</br>
+
+### 6주차 SOPT 3주차 마이그레이션
+<img width="756" alt="image" src="https://github.com/Pohanghang-Compose/.github/assets/52882799/36513043-0301-4483-9510-c67799fa3dc6">    
+
+이것만 하면 아쉽겠죠!   
+기존 코드들 야무지게 정리하고 MVI스럽게!!!   
+레퍼런스 많이많이 찾아보고 오깅~
 </br>
 </br>
 </br>
