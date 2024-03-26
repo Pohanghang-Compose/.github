@@ -1198,6 +1198,7 @@ Compose에는 remember가 있는데 왜 Flow랑 LiveData를 쓸까?
 - [State를 저장하는 방법 SaveStateHandle](https://pluu.github.io/blog/android/2020/02/20/savedstatehandle/)
 - [collectAsStateWithLifecycle에 관하여](https://medium.com/hongbeomi-dev/jetpack-compose%EC%97%90%EC%84%9C-flow%EB%A5%BC-%EC%95%88%EC%A0%84%ED%95%98%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-a394a679909b)
 - [hiltViewModel() vs viewModel()](https://medium.com/kenneth-android/compose-hiltviewmodel-%EA%B3%BC-viewmodel-%EC%B0%A8%EC%9D%B4-6d5412efcb19)
+- [CompositionLocal을 이해하고 써보자](https://naemamdaelo.tistory.com/entry/Android-Jetpack-Comopse%EC%9D%98-CompositionLocal%EC%9D%84-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B3%A0-%EC%8D%A8%EB%B3%B4%EC%9E%90)
 
 ### Kotlin
 - [Data Object란?](https://twozerozero.medium.com/%EC%BD%94%ED%8B%80%EB%A6%B0-1-9-0-%EB%B6%80%ED%84%B0-%EC%B6%94%EA%B0%80%EB%90%9C-data-object-%ED%83%80%EC%9E%85-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-b22d9ab1d0eb)
