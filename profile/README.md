@@ -41,7 +41,7 @@
 4주차 : [DO SOPT Android 1주차 Migration to Compose + MVI](#4주차-SOPT-1주차-마이그레이션)   
 5주차 : [DO SOPT Android 2주차 Migration to Compose + MVI](#5주차-SOPT-2주차-마이그레이션)   
 6주차 : [DO SOPT Android 3주차 Migration to Compose + MVI](#6주차-SOPT-3주차-마이그레이션)   
-7주차 : DO SOPT Android 4주차 Migration to Compose + MVI   
+7주차 : [DO SOPT Android 4주차 Migration to Compose + MVI](#7주차-SOPT-4주차-마이그레이션)      
 8주차 : DO SOPT Android 6주차 Migration to Compose + MVI   
 9주차 : DO SOPT Android 7주차 Migration to Compose + MVI   
 
@@ -360,26 +360,34 @@
 </tr>
 <tr>
   <td align="center">
-		🔥
+		🙆‍♂️
 	</td>
 	<td align="center">
-		🔥
+		🙅‍♀️
 	</td>
 	<td align="center">
-		🔥
+		🙆‍♂️
 	</td>
 	<td align="center">
-		🔥
+		🙅‍♀️
 	</td>
 	<td align="center">
-		🔥
+		🙆‍♂️
 	</td>
+</tr>
+<tr>
+	<td colspan="9" align="center">
+		<b>< 중간고사 대비기간></b>
+		<br>
+		 2주 동안 스터디도 쉬어갑니다 👋🏻
+	</td>
+	<br/>
 </tr>
 <tr>
 	<td rowspan="4" colspan="2" align="center">
 		<b>WEEK 7</b>
 		<br>
-		 3/26 ~ 4/2
+		 4/10 ~ 4/16
 	</td>
 	<td colspan="7" align="center">
 		 <b>SOPT 4주차</b> 내용 적용하여 Compose + MVI로 코드구현
@@ -429,14 +437,6 @@
 	<td align="center">
 		👨‍💻
 	</td>
-</tr>
-<tr>
-	<td colspan="9" align="center">
-		<b>< 중간고사 대비기간></b>
-		<br>
-		 2주 동안 스터디도 쉬어갑니다 👋🏻
-	</td>
-	<br/>
 </tr>
 <tr>
 	<td rowspan="4" colspan="2" align="center">
@@ -1127,6 +1127,17 @@ koin -> Hilt 마이그레이션은 자유!
 </br>
 </br>
 </br>
+
+### 7주차 SOPT 4주차 마이그레이션
+<img width="718" alt="image" src="https://github.com/Pohanghang-Compose/.github/assets/52882799/634f2560-425f-4cf1-8552-54fafe6afe9a">   
+
+[링크](https://reqres.in/)에 있는 api를 활용하기.   
+서버통신의 경우 방법은 자유입니다. ex) enqueue, hilt, repository pattern 등...   
+단, mvi스럽게 짜는 것이 과제입니다!
+</br>
+</br>
+</br>
+
 
 ## 1기 과제
 <details>
