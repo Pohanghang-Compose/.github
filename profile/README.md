@@ -2,7 +2,8 @@
 
 # 🗓️ Seasons
 **Season 1** : 23.10 ~ 23.12   
-**Season 2** : 24.02 ~
+**Season 2** : 24.02 ~ 24.05   
+**Season 3** : Comming Soon...
 
 </br>
 </br>
@@ -42,8 +43,6 @@
 5주차 : [DO SOPT Android 2주차 Migration to Compose + MVI](#5주차-SOPT-2주차-마이그레이션)   
 6주차 : [DO SOPT Android 3주차 Migration to Compose + MVI](#6주차-SOPT-3주차-마이그레이션)   
 7주차 : [DO SOPT Android 4주차 Migration to Compose + MVI](#7주차-SOPT-4주차-마이그레이션)      
-8주차 : DO SOPT Android 6주차 Migration to Compose + MVI   
-9주차 : DO SOPT Android 7주차 Migration to Compose + MVI   
 
 
 ## 1기 과제 목차
@@ -423,130 +422,28 @@
 </tr>
 <tr>
   <td align="center">
-		👨‍💻
+		🙅‍♀️
 	</td>
 	<td align="center">
-		👨‍💻
+		🙅‍♀️
 	</td>
 	<td align="center">
-		👨‍💻
+		🙆‍♂️
 	</td>
 	<td align="center">
-		👨‍💻
+		🙆‍♂️
 	</td>
 	<td align="center">
-		👨‍💻
+		🙆‍♂️
 	</td>
 </tr>
 <tr>
-	<td rowspan="4" colspan="2" align="center">
-		<b>WEEK 8</b>
+	<td colspan="9" align="center">
+		<b>< 포항항 2기 스터디 종료!! ></b>
 		<br>
-		 4/17 ~ 4/23
+		 여기까지 함께하신 모든분들의 열정에 박수를 보냅니다 👏
 	</td>
-	<td colspan="7" align="center">
-		 <b>SOPT 6주차</b> 내용 적용하여 Compose + MVI로 코드구현
-	</td>
-</tr>
-<tr>
-	<td colspan=2 align="center">
-		과제
-	</td>
-	<td colspan=5 align="center">
-	  	야무지게 구현해오기
-  	</td>
-</tr>
-<tr>
-	<td rowspan="2" colspan=2 align="center">
-		성취도
-	</td>
-		<td align="center">
-		동민
-	</td>
-	<td align="center">
-		강희
-	</td>
-	<td align="center">
-		관희
-	</td>
-	<td align="center">
-		유리
-	</td>
-	<td align="center">
-		태희
-	</td>
-</tr>
-<tr>
-  <td align="center">
-		👨‍💻
-	</td>
-	<td align="center">
-		👨‍💻
-	</td>
-	<td align="center">
-		👨‍💻
-	</td>
-	<td align="center">
-		👨‍💻
-	</td>
-	<td align="center">
-		👨‍💻
-	</td>
-</tr>
-<tr>
-	<td rowspan="4" colspan="2" align="center">
-		<b>WEEK 9</b>
-		<br>
-		 4/24 ~ 4/30
-	</td>
-	<td colspan="7" align="center">
-		 <b>SOPT 7주차</b> 내용 적용하여 Compose + MVI로 코드구현
-	</td>
-</tr>
-<tr>
-	<td colspan=2 align="center">
-		과제
-	</td>
-	<td colspan=5 align="center">
-	  	야무지게 구현해오기
-  	</td>
-</tr>
-<tr>
-	<td rowspan="2" colspan=2 align="center">
-		성취도
-	</td>
-		<td align="center">
-		동민
-	</td>
-	<td align="center">
-		강희
-	</td>
-	<td align="center">
-		관희
-	</td>
-	<td align="center">
-		유리
-	</td>
-	<td align="center">
-		태희
-	</td>
-</tr>
-<tr>
-  <td align="center">
-		👨‍💻
-	</td>
-	<td align="center">
-		👨‍💻
-	</td>
-	<td align="center">
-		👨‍💻
-	</td>
-	<td align="center">
-		👨‍💻
-	</td>
-	<td align="center">
-		👨‍💻
-	</td>
+	<br/>
 </tr>
 </table>
 
