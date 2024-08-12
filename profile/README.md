@@ -1,18 +1,26 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&animation=twinkling&height=230&text=DO%20SOPT%20%333rd%20Jetpack%20Compose%20Study&desc=Team.%20포항항ꉂꉂ(ᵔᗜᵔ*)&fontSize=40&fontAlign=50&fontAlignY=33&descSize=20&descAlign=50&descAlignY=55)  
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&animation=twinkling&height=230&text=👋%20포항항%20Study&desc=Team.%20포항항ꉂꉂ(ᵔᗜᵔ*)&fontSize=40&fontAlign=50&fontAlignY=33&descSize=20&descAlign=50&descAlignY=55)  
 
 # 🗓️ Seasons
 **Season 1** : 23.10 ~ 23.12   
 **Season 2** : 24.02 ~ 24.05   
-**Season 3** : Comming Soon...
+**Season 3** : 24.08 ~ `NOW`
 
 </br>
 </br>
 
 # 👨‍👩‍👧‍👦 Members
-## 2기 멤버
+## 3기 멤버
+|<img src="https://avatars.githubusercontent.com/u/52882799?s=70&v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/90740783?v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/98825364?v=4" width="128" />| <img src="https://avatars.githubusercontent.com/u/97405341?v=4" width="128" />|
+|:---------:|:---------:|:---------:|:---------:|
+|[👑박동민](https://github.com/chattymin)|[조관희](https://github.com/Jokwanhee)|[이태희](https://github.com/taeheeL)|[김상호](https://github.com/Marchbreeze)|
+
+<details>
+<summary>2기 멤버</summary>
+
 |<img src="https://avatars.githubusercontent.com/u/52882799?s=70&v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/91793891?v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/90740783?v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/83583757?v=4" width="128" />| <img src="https://avatars.githubusercontent.com/u/98825364?v=4" width="128" />| 
 |:---------:|:---------:|:---------:|:---------:|:---------:|
 |[👑박동민](https://github.com/chattymin)|[박강희](https://github.com/stellar-halo)|[조관희](https://github.com/Jokwanhee)|[강유리](https://github.com/kangyuri1114)|[이태희](https://github.com/taeheeL)|
+</details>
 
 <details>
 <summary>1기 멤버</summary>
@@ -36,16 +44,23 @@
 </br>
 
 # 🧾 과제 목차
-## 2기 과제 목차
+### 3기 과제 목차
+매주차 : Effective Kotlin item 5개 읽고 정리해오기   
+</br>
+</br>
+
+
+<details>
+<summary>2기 과제 목차</summary>
+
 1주차 : [MVI 공부해오기](#1주차-MVI-공부해오기)   
 2주차 ~ 3주차 : [MVI + orbit을 적용한 Compose 프로젝트 클론코딩](#2주차-3주차-클론코딩)   
 4주차 : [DO SOPT Android 1주차 Migration to Compose + MVI](#4주차-SOPT-1주차-마이그레이션)   
 5주차 : [DO SOPT Android 2주차 Migration to Compose + MVI](#5주차-SOPT-2주차-마이그레이션)   
 6주차 : [DO SOPT Android 3주차 Migration to Compose + MVI](#6주차-SOPT-3주차-마이그레이션)   
 7주차 : [DO SOPT Android 4주차 Migration to Compose + MVI](#7주차-SOPT-4주차-마이그레이션)      
+</details>
 
-
-## 1기 과제 목차
 <details>
 <summary>1기 과제 목차</summary>
 
@@ -96,7 +111,434 @@
 </tr>
 </table>
 
-## 2기 커리큘럼
+
+<table align="center" width=100%>
+<tr>
+	<td rowspan="3" colspan="2" align="center">
+		<b>WEEK 1</b>
+		<br>
+		 8/12 ~ 8/18
+	</td>
+	<td colspan="6" align="center">
+		 Effective Kotlin 1 ~ 5 공부 후 정리
+	</td>
+</tr>
+<tr>
+	<td rowspan="2" colspan=2 align="center">
+		성취도
+	</td>
+		<td align="center">
+		동민
+	</td>
+	<td align="center">
+		관희
+	</td>
+	<td align="center">
+		태희
+	</td>
+	<td align="center">
+		상호
+	</td>
+</tr>
+<tr>
+  <td align="center">
+		🔥
+	</td>
+	<td align="center">
+		🔥
+	</td>
+	<td align="center">
+		🔥
+	</td>
+	<td align="center">
+		🔥
+	</td>
+</tr>
+<tr>
+	<td rowspan="3" colspan="2" align="center">
+		<b>WEEK 2</b>
+		<br>
+		 8/19 ~ 8/25
+	</td>
+	<td colspan="6" align="center">
+		 Effective Kotlin 6 ~ 10 공부 후 정리
+	</td>
+</tr>
+<tr>
+	<td rowspan="2" colspan=2 align="center">
+		성취도
+	</td>
+		<td align="center">
+		동민
+	</td>
+	<td align="center">
+		관희
+	</td>
+	<td align="center">
+		태희
+	</td>
+	<td align="center">
+		상호
+	</td>
+</tr>
+<tr>
+  <td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
+		👨‍💻
+	</td>
+</tr>
+<tr>
+	<td rowspan="3" colspan="2" align="center">
+		<b>WEEK 3</b>
+		<br>
+		 8/26 ~ 9/1
+	</td>
+	<td colspan="6" align="center">
+		 Effective Kotlin 11 ~ 15 공부 후 정리
+	</td>
+</tr>
+<tr>
+	<td rowspan="2" colspan=2 align="center">
+		성취도
+	</td>
+		<td align="center">
+		동민
+	</td>
+	<td align="center">
+		관희
+	</td>
+	<td align="center">
+		태희
+	</td>
+	<td align="center">
+		상호
+	</td>
+</tr>
+<tr>
+  <td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
+		👨‍💻
+	</td>
+</tr>
+<tr>
+	<td rowspan="3" colspan="2" align="center">
+		<b>WEEK 4</b>
+		<br>
+		 9/2 ~ 9/8
+	</td>
+	<td colspan="6" align="center">
+		 Effective Kotlin 16 ~ 20 공부 후 정리
+	</td>
+</tr>
+<tr>
+	<td rowspan="2" colspan=2 align="center">
+		성취도
+	</td>
+		<td align="center">
+		동민
+	</td>
+	<td align="center">
+		관희
+	</td>
+	<td align="center">
+		태희
+	</td>
+	<td align="center">
+		상호
+	</td>
+</tr>
+<tr>
+  <td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
+		👨‍💻
+	</td>
+</tr>
+<tr>
+	<td rowspan="3" colspan="2" align="center">
+		<b>WEEK 5</b>
+		<br>
+		 9/9 ~ 9/15
+	</td>
+	<td colspan="6" align="center">
+		 Effective Kotlin 21 ~ 25 공부 후 정리
+	</td>
+</tr>
+<tr>
+	<td rowspan="2" colspan=2 align="center">
+		성취도
+	</td>
+		<td align="center">
+		동민
+	</td>
+	<td align="center">
+		관희
+	</td>
+	<td align="center">
+		태희
+	</td>
+	<td align="center">
+		상호
+	</td>
+</tr>
+<tr>
+  <td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
+		👨‍💻
+	</td>
+</tr>
+<tr>
+	<td rowspan="3" colspan="2" align="center">
+		<b>WEEK 6</b>
+		<br>
+		 9/16 ~ 9/22
+	</td>
+	<td colspan="6" align="center">
+		 Effective Kotlin 26 ~ 30 공부 후 정리
+	</td>
+</tr>
+<tr>
+	<td rowspan="2" colspan=2 align="center">
+		성취도
+	</td>
+		<td align="center">
+		동민
+	</td>
+	<td align="center">
+		관희
+	</td>
+	<td align="center">
+		태희
+	</td>
+	<td align="center">
+		상호
+	</td>
+</tr>
+<tr>
+  <td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
+		👨‍💻
+	</td>
+</tr>
+<tr>
+	<td rowspan="3" colspan="2" align="center">
+		<b>WEEK 7</b>
+		<br>
+		 9/23 ~ 9/29
+	</td>
+	<td colspan="6" align="center">
+		 Effective Kotlin 31 ~ 35 공부 후 정리
+	</td>
+</tr>
+<tr>
+	<td rowspan="2" colspan=2 align="center">
+		성취도
+	</td>
+		<td align="center">
+		동민
+	</td>
+	<td align="center">
+		관희
+	</td>
+	<td align="center">
+		태희
+	</td>
+	<td align="center">
+		상호
+	</td>
+</tr>
+<tr>
+  <td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
+		👨‍💻
+	</td>
+</tr>
+<tr>
+	<td rowspan="3" colspan="2" align="center">
+		<b>WEEK 8</b>
+		<br>
+		 9/30 ~ 10/6
+	</td>
+	<td colspan="6" align="center">
+		 Effective Kotlin 36 ~ 40 공부 후 정리
+	</td>
+</tr>
+<tr>
+	<td rowspan="2" colspan=2 align="center">
+		성취도
+	</td>
+		<td align="center">
+		동민
+	</td>
+	<td align="center">
+		관희
+	</td>
+	<td align="center">
+		태희
+	</td>
+	<td align="center">
+		상호
+	</td>
+</tr>
+<tr>
+  <td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
+		👨‍💻
+	</td>
+</tr>
+<tr>
+	<td rowspan="3" colspan="2" align="center">
+		<b>WEEK 9</b>
+		<br>
+		 10/7 ~ 10/13
+	</td>
+	<td colspan="6" align="center">
+		 Effective Kotlin 41 ~ 45 공부 후 정리
+	</td>
+</tr>
+<tr>
+	<td rowspan="2" colspan=2 align="center">
+		성취도
+	</td>
+		<td align="center">
+		동민
+	</td>
+	<td align="center">
+		관희
+	</td>
+	<td align="center">
+		태희
+	</td>
+	<td align="center">
+		상호
+	</td>
+</tr>
+<tr>
+  <td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
+		👨‍💻
+	</td>
+</tr>
+
+<tr>
+	<td rowspan="3" colspan="2" align="center">
+		<b>WEEK 10</b>
+		<br>
+		 10/14 ~ 10/20
+	</td>
+	<td colspan="6" align="center">
+		 Effective Kotlin 46 ~ 52 공부 후 정리
+	</td>
+</tr>
+<tr>
+	<td rowspan="2" colspan=2 align="center">
+		성취도
+	</td>
+		<td align="center">
+		동민
+	</td>
+	<td align="center">
+		관희
+	</td>
+	<td align="center">
+		태희
+	</td>
+	<td align="center">
+		상호
+	</td>
+</tr>
+<tr>
+  <td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
+		👨‍💻
+	</td>
+</tr>
+<tr>
+	<td colspan="9" align="center">
+		<b>< 포항항 3기 스터디 종료!! ></b>
+		<br>
+		 여기까지 함께하신 모든분들의 열정에 박수를 보냅니다 👏
+	</td>
+	<br/>
+</tr>
+</table>
+
+
+
+
+<details>
+<summary>2기 커리큘럼</summary>
 
 <table align="center" width=100%>
 <tr>
@@ -446,9 +888,7 @@
 	<br/>
 </tr>
 </table>
-
-
-## 1기 커리큘럼
+</details>
 
 <details>
 <summary>1기 커리큘럼</summary>
@@ -972,7 +1412,14 @@
 
 # 🔖 과제 리스트
 
-## 2기 과제
+### 3기 과제
+매주차 [레포지토리](https://github.com/Pohanghang-Compose/EffectiveKotlin)에 자기 이름으로 정리하기
+</br>
+</br>
+
+
+<details>
+<summary>2기 과제</summary>
 
 ### 1주차 MVI 공부해오기
 [동민 : MVI란 무엇일까?](https://buttered-joggers-9b8.notion.site/1-MVI-ed19c06a33094f6893692ebf7e0efa37?pvs=4)   
@@ -1031,12 +1478,9 @@ koin -> Hilt 마이그레이션은 자유!
 [링크](https://reqres.in/)에 있는 api를 활용하기.   
 서버통신의 경우 방법은 자유입니다. ex) enqueue, hilt, repository pattern 등...   
 단, mvi스럽게 짜는 것이 과제입니다!
-</br>
-</br>
-</br>
 
+</details>
 
-## 1기 과제
 <details>
 <summary>1기 과제</summary>
 
