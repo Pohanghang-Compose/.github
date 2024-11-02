@@ -363,7 +363,7 @@
 	<td rowspan="3" colspan="2" align="center">
 		<b>WEEK 7</b>
 		<br>
-		 9/23 ~ 9/29
+		 9/23 ~ 10/3
 	</td>
 	<td colspan="6" align="center">
 		 Effective Kotlin 31 ~ 35 공부 후 정리
@@ -404,10 +404,10 @@
 	<td rowspan="3" colspan="2" align="center">
 		<b>WEEK 8</b>
 		<br>
-		 9/30 ~ 10/6
+		 10/4 ~ 10/10
 	</td>
 	<td colspan="6" align="center">
-		 Effective Kotlin 36 ~ 40 공부 후 정리
+		 Effective Kotlin 36 ~ 39 공부 후 정리
 	</td>
 </tr>
 <tr>
@@ -445,10 +445,100 @@
 	<td rowspan="3" colspan="2" align="center">
 		<b>WEEK 9</b>
 		<br>
-		 10/7 ~ 10/13
+		 10/11 ~ 10/17
 	</td>
 	<td colspan="6" align="center">
-		 Effective Kotlin 41 ~ 45 공부 후 정리
+		 Effective Kotlin 40 ~ 44 공부 후 정리
+	</td>
+</tr>
+<tr>
+	<td rowspan="2" colspan=2 align="center">
+		성취도
+	</td>
+		<td align="center">
+		동민
+	</td>
+	<td align="center">
+		관희
+	</td>
+	<td align="center">
+		태희
+	</td>
+	<td align="center">
+		상호
+	</td>
+</tr>
+<tr>
+  <td align="center">
+		🙆‍♂️
+	</td>
+	<td align="center">
+		🙆‍♂️
+	</td>
+	<td align="center">
+		🙆‍♂️
+	</td>
+	<td align="center">
+		🙆‍♂️
+	</td>
+</tr>
+	
+<tr>
+	<td colspan="9" align="center">
+		 시험기간이슈로 이번주는 쉬어가요~ 👨‍🎓
+	</td>
+</tr>
+
+<tr>
+	<td rowspan="3" colspan="2" align="center">
+		<b>WEEK 10</b>
+		<br>
+		 10/25 ~ 10/31
+	</td>
+	<td colspan="6" align="center">
+		 Effective Kotlin 45 ~ 48 공부 후 정리
+	</td>
+</tr>
+<tr>
+	<td rowspan="2" colspan=2 align="center">
+		성취도
+	</td>
+		<td align="center">
+		동민
+	</td>
+	<td align="center">
+		관희
+	</td>
+	<td align="center">
+		태희
+	</td>
+	<td align="center">
+		상호
+	</td>
+</tr>
+<tr>
+  <td align="center">
+		🙆‍♂️
+	</td>
+	<td align="center">
+		🙆‍♂️
+	</td>
+	<td align="center">
+		🙆‍♂️
+	</td>
+	<td align="center">
+		🙆‍♂️
+	</td>
+</tr>
+
+<tr>
+	<td rowspan="3" colspan="2" align="center">
+		<b>WEEK 11</b>
+		<br>
+		 11/1 ~ 11/7
+	</td>
+	<td colspan="6" align="center">
+		 Effective Kotlin 49 ~ 52 공부 후 정리
 	</td>
 </tr>
 <tr>
@@ -483,47 +573,6 @@
 	</td>
 </tr>
 
-<tr>
-	<td rowspan="3" colspan="2" align="center">
-		<b>WEEK 10</b>
-		<br>
-		 10/14 ~ 10/20
-	</td>
-	<td colspan="6" align="center">
-		 Effective Kotlin 46 ~ 52 공부 후 정리
-	</td>
-</tr>
-<tr>
-	<td rowspan="2" colspan=2 align="center">
-		성취도
-	</td>
-		<td align="center">
-		동민
-	</td>
-	<td align="center">
-		관희
-	</td>
-	<td align="center">
-		태희
-	</td>
-	<td align="center">
-		상호
-	</td>
-</tr>
-<tr>
-  <td align="center">
-		👨‍💻
-	</td>
-	<td align="center">
-		👨‍💻
-	</td>
-	<td align="center">
-		👨‍💻
-	</td>
-	<td align="center">
-		👨‍💻
-	</td>
-</tr>
 <tr>
 	<td colspan="9" align="center">
 		<b>< 포항항 3기 스터디 종료!! ></b>
