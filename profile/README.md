@@ -3,7 +3,7 @@
 # 🗓️ Seasons
 **Season 1** : 23.10 ~ 23.12   
 **Season 2** : 24.02 ~ 24.05   
-**Season 3** : 24.08 ~ `NOW`
+**Season 3** : 24.08 ~ 24.11
 
 </br>
 </br>
@@ -560,16 +560,16 @@
 </tr>
 <tr>
   <td align="center">
-		🔥
+		🙆‍♂️
 	</td>
 	<td align="center">
-		🔥
+		🙆‍♂️
 	</td>
 	<td align="center">
-		🔥
+		🙆‍♂️
 	</td>
 	<td align="center">
-		🔥
+		🙅‍♀️
 	</td>
 </tr>
 
