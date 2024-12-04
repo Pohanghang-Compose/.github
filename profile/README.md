@@ -3,16 +3,26 @@
 # 🗓️ Seasons
 **Season 1** : 23.10 ~ 23.12   
 **Season 2** : 24.02 ~ 24.05   
-**Season 3** : 24.08 ~ 24.11
+**Season 3** : 24.08 ~ 24.11   
+**Season 3** : 24.12 ~ **진행중**
 
 </br>
 </br>
 
 # 👨‍👩‍👧‍👦 Members
-## 3기 멤버
+## 4기 멤버
+|<img src="https://avatars.githubusercontent.com/u/52882799?s=70&v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/90740783?v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/98825364?v=4" width="128" />| <img src="https://avatars.githubusercontent.com/u/97405341?v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/91793891?v=4" width="128" />|
+|:---------:|:---------:|:---------:|:---------:|:---------:|
+|[👑박동민](https://github.com/chattymin)|[조관희](https://github.com/Jokwanhee)|[이태희](https://github.com/taeheeL)|[김상호](https://github.com/Marchbreeze)|[박강희](https://github.com/stellar-halo)|
+
+
+<details>
+<summary>3기 멤버</summary>
+
 |<img src="https://avatars.githubusercontent.com/u/52882799?s=70&v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/90740783?v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/98825364?v=4" width="128" />| <img src="https://avatars.githubusercontent.com/u/97405341?v=4" width="128" />|
 |:---------:|:---------:|:---------:|:---------:|
 |[👑박동민](https://github.com/chattymin)|[조관희](https://github.com/Jokwanhee)|[이태희](https://github.com/taeheeL)|[김상호](https://github.com/Marchbreeze)|
+</details>
 
 <details>
 <summary>2기 멤버</summary>
@@ -33,22 +43,22 @@
 </br>
 </br>
 
-# 📚 과제 제출 방식
-- 본인 이름으로 레포지토리를 생성합니다.
-- feat/week1 등 새 브렌치를 만들고 해당하는 폴더를 생성하여 과제를 진행해주세요. </br>ex) week1 폴더 생성 및 week1 브랜치 생성 후 작업
-- PR에 **구현 사진** 혹은 **시연 영상**을 포함하여야 합니다.
-- 과제는 다음 스터디 시작일 **하루 전까지** 완료하셔야 합니다. </br>ex) 10월 26일 스터디 진행 -> 25일까지 과제
-- 서로서로 리뷰를 달아주며 공부합니다!   
-
-</br>
-</br>
-
 # 🧾 과제 목차
-### 3기 과제 목차
-매주차 : Effective Kotlin item 5개 읽고 정리해오기   
+### 4기 과제 목차
+이번 4기에서는 특정 개념을 공부하는 것이 아닌, **본인이 공부한 내용을 서로에게 공유**하는 방식으로 진행할 예정이에요.   
+주제는 **Android, Kotlin, CS 상관없어요**. 단, ANDROID 팀원이 모였다보니 Spring과 같이 전혀 상관없는 분야는 안돼요.   
+2주의 기간동안 자료를 조사하고, 발표 자료를 만든 후, 발표를 진행해요.  
+그 후 나머지 사람들은 들으면서 궁금했던 부분을 질문하고 답변하는 시간을 가지며 서로의 지식을 공유해요.   
+매주 스터디를 하되, 본인의 발표는 격주로 진행하게 됩니다. 발표는 최소 10분이상 해야해요.
+
 </br>
 </br>
 
+
+<details>
+<summary>3기 과제 목차</summary>
+매주차 : Effective Kotlin item 5개 읽고 정리해오기   
+</details>
 
 <details>
 <summary>2기 과제 목차</summary>
@@ -111,6 +121,108 @@
 </tr>
 </table>
 
+
+<table align="center" width=100%>
+<tr>
+	<td rowspan="3" colspan="2" align="center">
+		<b>WEEK 1</b>
+		<br>
+		12/16
+	</td>
+	<td colspan="7" align="center">
+		 동민 / 강희 공부내용 발표
+	</td>
+</tr>
+<tr>
+	<td rowspan="2" colspan=2 align="center">
+		성취도
+	</td>
+		<td align="center">
+		동민
+	</td>
+	<td align="center">
+		관희
+	</td>
+	<td align="center">
+		태희
+	</td>
+	<td align="center">
+		상호
+	</td>
+	<td align="center">
+		강희
+	</td>
+</tr>
+<tr>
+  <td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
+		1월에 만나요~ 👋
+	</td>
+	<td align="center">
+		👨‍💻
+	</td>
+</tr>
+<tr>
+	<td rowspan="3" colspan="2" align="center">
+		<b>WEEK 2</b>
+		<br>
+		12/23
+	</td>
+	<td colspan="7" align="center">
+		 관희 / 태희 공부내용 발표
+	</td>
+</tr>
+<tr>
+	<td rowspan="2" colspan=2 align="center">
+		성취도
+	</td>
+		<td align="center">
+		동민
+	</td>
+	<td align="center">
+		관희
+	</td>
+	<td align="center">
+		태희
+	</td>
+	<td align="center">
+		상호
+	</td>
+	<td align="center">
+		강희
+	</td>
+</tr>
+<tr>
+  <td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
+		👨‍💻
+	</td>
+	<td align="center">
+		1월에 만나요~ 👋
+	</td>
+	<td align="center">
+		👨‍💻
+	</td>
+</tr>
+</table>
+
+
+
+<details>
+<summary>3기 커리큘럼</summary>
 
 <table align="center" width=100%>
 <tr>
@@ -582,7 +694,7 @@
 	<br/>
 </tr>
 </table>
-
+</details>
 
 
 
@@ -1459,16 +1571,10 @@
 <br>
 <br>
 
-# 🔖 과제 리스트
-
-### 3기 과제
-매주차 [레포지토리](https://github.com/Pohanghang-Compose/EffectiveKotlin)에 자기 이름으로 정리하기
-</br>
-</br>
-
+## 포항항 공부 레퍼런스
 
 <details>
-<summary>2기 과제</summary>
+<summary>잡다한 내용들</summary>
 
 ### 1주차 MVI 공부해오기
 [동민 : MVI란 무엇일까?](https://buttered-joggers-9b8.notion.site/1-MVI-ed19c06a33094f6893692ebf7e0efa37?pvs=4)   
@@ -1528,11 +1634,7 @@ koin -> Hilt 마이그레이션은 자유!
 서버통신의 경우 방법은 자유입니다. ex) enqueue, hilt, repository pattern 등...   
 단, mvi스럽게 짜는 것이 과제입니다!
 
-</details>
-
-<details>
-<summary>1기 과제</summary>
-
+## 1기 과제
 ### 1주차 프로필 카드 구현 
 <img width="480" alt="compose 과제" src="https://github.com/Pohanghang-Compose/.github/assets/52882799/70cca1a8-ae47-40ec-af23-456a1f875ea2">  
 <br>
@@ -1587,10 +1689,7 @@ Compose에는 remember가 있는데 왜 Flow랑 LiveData를 쓸까?
 확실한 근거와 함께 조사해오기!!   
 
 </details>
-<br>
-<br>
 
-## 포항항 공부 레퍼런스
 ### UI
 - [TextField를 Custom 해보자!](https://medium.com/sungbinland/jetpack-compose-%EB%82%98%EB%A7%8C%EC%9D%98-textfield-%EB%A7%8C%EB%93%A4%EA%B8%B0-1d117b37d2a7)
 
