@@ -130,7 +130,7 @@
 		12/16
 	</td>
 	<td colspan="7" align="center">
-		 관희 / 강희 공부내용 발표
+		 관희 : kapt -> ksp / 강희 : Hilt
 	</td>
 </tr>
 <tr>
@@ -155,19 +155,19 @@
 </tr>
 <tr>
   <td align="center">
-		👨‍💻
+		🙆‍♂️
 	</td>
 	<td align="center">
-		👨‍💻
+		🙆‍♂️
 	</td>
 	<td align="center">
-		👨‍💻
+		🙆‍♂️
 	</td>
 	<td align="center">
 		1월에 만나요~ 👋
 	</td>
 	<td align="center">
-		👨‍💻
+		🙆‍♂️
 	</td>
 </tr>
 <tr>
