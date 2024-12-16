@@ -13,7 +13,7 @@
 ## 4기 멤버
 |<img src="https://avatars.githubusercontent.com/u/52882799?s=70&v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/90740783?v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/98825364?v=4" width="128" />| <img src="https://avatars.githubusercontent.com/u/97405341?v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/91793891?v=4" width="128" />|
 |:---------:|:---------:|:---------:|:---------:|:---------:|
-|[👑박동민](https://github.com/chattymin)|[조관희](https://github.com/Jokwanhee)|[이태희](https://github.com/taeheeL)|[김상호](https://github.com/Marchbreeze)|[박강희](https://github.com/stellar-halo)|
+|[👑박동민](https://github.com/chattymin)|[조관희](https://github.com/Jokwanhee)|[이태희](https://github.com/haeti-dev)|[김상호](https://github.com/Marchbreeze)|[박강희](https://github.com/stellar-halo)|
 
 
 <details>
@@ -21,7 +21,7 @@
 
 |<img src="https://avatars.githubusercontent.com/u/52882799?s=70&v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/90740783?v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/98825364?v=4" width="128" />| <img src="https://avatars.githubusercontent.com/u/97405341?v=4" width="128" />|
 |:---------:|:---------:|:---------:|:---------:|
-|[👑박동민](https://github.com/chattymin)|[조관희](https://github.com/Jokwanhee)|[이태희](https://github.com/taeheeL)|[김상호](https://github.com/Marchbreeze)|
+|[👑박동민](https://github.com/chattymin)|[조관희](https://github.com/Jokwanhee)|[이태희](https://github.com/haeti-dev)|[김상호](https://github.com/Marchbreeze)|
 </details>
 
 <details>
@@ -29,7 +29,7 @@
 
 |<img src="https://avatars.githubusercontent.com/u/52882799?s=70&v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/91793891?v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/90740783?v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/83583757?v=4" width="128" />| <img src="https://avatars.githubusercontent.com/u/98825364?v=4" width="128" />| 
 |:---------:|:---------:|:---------:|:---------:|:---------:|
-|[👑박동민](https://github.com/chattymin)|[박강희](https://github.com/stellar-halo)|[조관희](https://github.com/Jokwanhee)|[강유리](https://github.com/kangyuri1114)|[이태희](https://github.com/taeheeL)|
+|[👑박동민](https://github.com/chattymin)|[박강희](https://github.com/stellar-halo)|[조관희](https://github.com/Jokwanhee)|[강유리](https://github.com/kangyuri1114)|[이태희](https://github.com/haeti-dev)|
 </details>
 
 <details>
