@@ -11,9 +11,9 @@
 
 # 👨‍👩‍👧‍👦 Members
 ## 4기 멤버
-|<img src="https://avatars.githubusercontent.com/u/52882799?s=70&v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/90740783?v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/98825364?v=4" width="128" />| <img src="https://avatars.githubusercontent.com/u/97405341?v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/91793891?v=4" width="128" />|
-|:---------:|:---------:|:---------:|:---------:|:---------:|
-|[👑박동민](https://github.com/chattymin)|[조관희](https://github.com/Jokwanhee)|[이태희](https://github.com/haeti-dev)|[김상호](https://github.com/Marchbreeze)|[박강희](https://github.com/stellar-halo)|
+|<img src="https://avatars.githubusercontent.com/u/52882799?s=70&v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/90740783?v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/98825364?v=4" width="128" />| <img src="https://avatars.githubusercontent.com/u/97405341?v=4" width="128" />|
+|:---------:|:---------:|:---------:|:---------:|
+|[👑박동민](https://github.com/chattymin)|[조관희](https://github.com/Jokwanhee)|[이태희](https://github.com/haeti-dev)|[김상호](https://github.com/Marchbreeze)
 
 
 <details>
@@ -129,7 +129,7 @@
 		<br>
 		12/16
 	</td>
-	<td colspan="7" align="center">
+	<td colspan="6" align="center">
 		 관희 : kapt -> ksp / 강희 : Hilt
 	</td>
 </tr>
@@ -149,9 +149,6 @@
 	<td align="center">
 		상호
 	</td>
-	<td align="center">
-		강희
-	</td>
 </tr>
 <tr>
   <td align="center">
@@ -166,9 +163,6 @@
 	<td align="center">
 		1월에 만나요~ 👋
 	</td>
-	<td align="center">
-		🙆‍♂️
-	</td>
 </tr>
 <tr>
 	<td rowspan="3" colspan="2" align="center">
@@ -176,8 +170,8 @@
 		<br>
 		12/23
 	</td>
-	<td colspan="7" align="center">
-		 동민 / 태희 공부내용 발표
+	<td colspan="6" align="center">
+		 동민 : sdk / 태희 : Compose Snapshot System
 	</td>
 </tr>
 <tr>
@@ -196,28 +190,230 @@
 	<td align="center">
 		상호
 	</td>
-	<td align="center">
-		강희
-	</td>
 </tr>
 <tr>
   <td align="center">
-		👨‍💻
+		🙆‍♂️
 	</td>
 	<td align="center">
-		👨‍💻
+		🙆‍♂️
 	</td>
 	<td align="center">
-		👨‍💻
+		🙆‍♂️
 	</td>
 	<td align="center">
 		1월에 만나요~ 👋
 	</td>
-	<td align="center">
-		👨‍💻
+</tr>
+<tr>
+	<td rowspan="3" colspan="2" align="center">
+		<b>WEEK 3</b>
+		<br>
+		1/13
+	</td>
+	<td colspan="6" align="center">
+		 관희 : textMeasurer / 태희 : Snapshot Mutation Policy
 	</td>
 </tr>
+<tr>
+	<td rowspan="2" colspan=2 align="center">
+		성취도
+	</td>
+		<td align="center">
+		동민
+	</td>
+	<td align="center">
+		관희
+	</td>
+	<td align="center">
+		태희
+	</td>
+	<td align="center">
+		상호
+	</td>
+</tr>
+<tr>
+  <td align="center">
+		🙆‍♂️
+	</td>
+	<td align="center">
+		🙆‍♂️
+	</td>
+	<td align="center">
+		🙆‍♂️
+	</td>
+	<td align="center">
+		🙆‍♂️
+	</td>
+</tr>
+<tr>
+	<td rowspan="3" colspan="2" align="center">
+		<b>WEEK 4</b>
+		<br>
+		2/3
+	</td>
+	<td colspan="6" align="center">
+		 동민 : VerticalScroll과 imePadding의 함정 / 상호 : 안드로이드와 JVM의 메모리 관리 방식
+	</td>
+</tr>
+<tr>
+	<td rowspan="2" colspan=2 align="center">
+		성취도
+	</td>
+		<td align="center">
+		동민
+	</td>
+	<td align="center">
+		관희
+	</td>
+	<td align="center">
+		태희
+	</td>
+	<td align="center">
+		상호
+	</td>
+</tr>
+<tr>
+  <td align="center">
+		🙆‍♂️
+	</td>
+	<td align="center">
+		🙆‍♂️
+	</td>
+	<td align="center">
+		🙆‍♂️
+	</td>
+	<td align="center">
+		🙆‍♂️
+	</td>
+</tr>
+<tr>
+	<td rowspan="3" colspan="2" align="center">
+		<b>WEEK 5</b>
+		<br>
+		2/10
+	</td>
+	<td colspan="6" align="center">
+		 관희 : Camerax / 태희 : Compound Component 패턴으로 복잡한 UI 설계하기
+	</td>
+</tr>
+<tr>
+	<td rowspan="2" colspan=2 align="center">
+		성취도
+	</td>
+		<td align="center">
+		동민
+	</td>
+	<td align="center">
+		관희
+	</td>
+	<td align="center">
+		태희
+	</td>
+	<td align="center">
+		상호
+	</td>
+</tr>
+<tr>
+  <td align="center">
+		🙆‍♂️
+	</td>
+	<td align="center">
+		🙆‍♂️
+	</td>
+	<td align="center">
+		🙆‍♂️
+	</td>
+	<td align="center">
+		🙆‍♂️
+	</td>
+</tr>
+<tr>
+	<td rowspan="3" colspan="2" align="center">
+		<b>WEEK 6</b>
+		<br>
+		2/3
+	</td>
+	<td colspan="6" align="center">
+		 동민 : AsyncImage With Preview / 상호 : library없이 imageLoader 만들기
+	</td>
+</tr>
+<tr>
+	<td rowspan="2" colspan=2 align="center">
+		성취도
+	</td>
+		<td align="center">
+		동민
+	</td>
+	<td align="center">
+		관희
+	</td>
+	<td align="center">
+		태희
+	</td>
+	<td align="center">
+		상호
+	</td>
+</tr>
+<tr>
+  <td align="center">
+		🙆‍♂️
+	</td>
+	<td align="center">
+		🙆‍♂️
+	</td>
+	<td align="center">
+		🙆‍♂️
+	</td>
+	<td align="center">
+		🙆‍♂️
+	</td>
+</tr>
+<tr>
+	<td rowspan="3" colspan="2" align="center">
+		<b>WEEK 7</b>
+		<br>
+		2/10
+	</td>
+	<td colspan="6" align="center">
+		 관희 : Android Storage #1 - SharedPreferences & DataStore / 태희 : asStateFlow 꼭 써야될까? 해부해보자
+	</td>
+</tr>
+<tr>
+	<td rowspan="2" colspan=2 align="center">
+		성취도
+	</td>
+		<td align="center">
+		동민
+	</td>
+	<td align="center">
+		관희
+	</td>
+	<td align="center">
+		태희
+	</td>
+	<td align="center">
+		상호
+	</td>
+</tr>
+<tr>
+  <td align="center">
+		🙆‍♂️
+	</td>
+	<td align="center">
+		🙆‍♂️
+	</td>
+	<td align="center">
+		🙆‍♂️
+	</td>
+	<td align="center">
+		🙆‍♂️
+	</td>
+</tr>
+
+ 
 </table>
+
 
 
 
