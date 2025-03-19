@@ -332,7 +332,7 @@
 	<td rowspan="3" colspan="2" align="center">
 		<b>WEEK 6</b>
 		<br>
-		2/3
+		2/17
 	</td>
 	<td colspan="6" align="center">
 		 동민 : AsyncImage With Preview / 상호 : library없이 imageLoader 만들기
@@ -373,7 +373,7 @@
 	<td rowspan="3" colspan="2" align="center">
 		<b>WEEK 7</b>
 		<br>
-		2/10
+		2/24
 	</td>
 	<td colspan="6" align="center">
 		 관희 : Android Storage #1 - SharedPreferences & DataStore / 태희 : asStateFlow 꼭 써야될까? 해부해보자
@@ -410,7 +410,88 @@
 		🙆‍♂️
 	</td>
 </tr>
-
+<tr>
+	<td rowspan="3" colspan="2" align="center">
+		<b>WEEK 8</b>
+		<br>
+		3/10
+	</td>
+	<td colspan="6" align="center">
+		 동민 : solve props drilling with compositionLocal  / 상호 : requireWidth로 화면 초과 이미지 나타내기
+	</td>
+</tr>
+<tr>
+	<td rowspan="2" colspan=2 align="center">
+		성취도
+	</td>
+		<td align="center">
+		동민
+	</td>
+	<td align="center">
+		관희
+	</td>
+	<td align="center">
+		태희
+	</td>
+	<td align="center">
+		상호
+	</td>
+</tr>
+<tr>
+  <td align="center">
+		🙆‍♂️
+	</td>
+	<td align="center">
+		🙆‍♂️
+	</td>
+	<td align="center">
+		🙆‍♂️
+	</td>
+	<td align="center">
+		🙆‍♂️
+	</td>
+</tr>
+<tr>
+	<td rowspan="3" colspan="2" align="center">
+		<b>WEEK 9</b>
+		<br>
+		3/17
+	</td>
+	<td colspan="6" align="center">
+		 관희 : 내부저장소와 외부저장소에 대해서 알아보자 / 태희 : 모바일 개발자가 워치에서 얻은 인사이트
+	</td>
+</tr>
+<tr>
+	<td rowspan="2" colspan=2 align="center">
+		성취도
+	</td>
+		<td align="center">
+		동민
+	</td>
+	<td align="center">
+		관희
+	</td>
+	<td align="center">
+		태희
+	</td>
+	<td align="center">
+		상호
+	</td>
+</tr>
+<tr>
+  <td align="center">
+		🙆‍♂️
+	</td>
+	<td align="center">
+		🙆‍♂️
+	</td>
+	<td align="center">
+		🙆‍♂️
+	</td>
+	<td align="center">
+		🙆‍♂️
+	</td>
+</tr>
  
 </table>
 
