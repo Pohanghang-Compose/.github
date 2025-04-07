@@ -492,7 +492,88 @@
 		🙆‍♂️
 	</td>
 </tr>
- 
+<tr>
+	<td rowspan="3" colspan="2" align="center">
+		<b>WEEK 10</b>
+		<br>
+		3/24
+	</td>
+	<td colspan="6" align="center">
+		 관희 : 기억장치 표기 용량에 관해서 (GB vs GiB) / 동민 : Android 15에서의 AlarmManager와 WorkManager
+	</td>
+</tr>
+<tr>
+	<td rowspan="2" colspan=2 align="center">
+		성취도
+	</td>
+		<td align="center">
+		동민
+	</td>
+	<td align="center">
+		관희
+	</td>
+	<td align="center">
+		태희
+	</td>
+	<td align="center">
+		상호
+	</td>
+</tr>
+<tr>
+  <td align="center">
+		🙆‍♂️
+	</td>
+	<td align="center">
+		🙆‍♂️
+	</td>
+	<td align="center">
+		🙆‍♂️
+	</td>
+	<td align="center">
+		🙆‍♂️
+	</td>
+</tr>
+<tr>
+	<td rowspan="3" colspan="2" align="center">
+		<b>WEEK 10</b>
+		<br>
+		4/7
+	</td>
+	<td colspan="6" align="center">
+		 상호 : Unit Test / 태희 : 버튼 클릭 몇 번으로 앱 배포하기
+	</td>
+</tr>
+<tr>
+	<td rowspan="2" colspan=2 align="center">
+		성취도
+	</td>
+		<td align="center">
+		동민
+	</td>
+	<td align="center">
+		관희
+	</td>
+	<td align="center">
+		태희
+	</td>
+	<td align="center">
+		상호
+	</td>
+</tr>
+<tr>
+  <td align="center">
+		🙆‍♂️
+	</td>
+	<td align="center">
+		🙆‍♂️
+	</td>
+	<td align="center">
+		🙆‍♂️
+	</td>
+	<td align="center">
+		🙆‍♂️
+	</td>
+</tr>
 </table>
 
 
