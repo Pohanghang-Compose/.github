@@ -616,6 +616,48 @@
 		🙆‍♂️
 	</td>
 </tr>
+<tr>
+	<td rowspan="3" colspan="2" align="center">
+		<b>WEEK 13</b>
+		<br>
+		5/2
+	</td>
+	<td colspan="6" align="center">
+		 관희 : 오픈 그래프(Open Graph)에 대해서 with Next.js
+		 동민 : 음~ 맛있다~ Android Flavor
+	</td>
+</tr>
+<tr>
+	<td rowspan="2" colspan=2 align="center">
+		성취도
+	</td>
+		<td align="center">
+		동민
+	</td>
+	<td align="center">
+		관희
+	</td>
+	<td align="center">
+		태희
+	</td>
+	<td align="center">
+		상호
+	</td>
+</tr>
+<tr>
+  <td align="center">
+		🙆‍♂️
+	</td>
+	<td align="center">
+		🙆‍♂️
+	</td>
+	<td align="center">
+		🙅‍♀️
+	</td>
+	<td align="center">
+		🙆‍♂️
+	</td>
+</tr>
 </table>
 
 
