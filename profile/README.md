@@ -623,7 +623,7 @@
 		5/2
 	</td>
 	<td colspan="6" align="center">
-		 관희 : 오픈 그래프(Open Graph)에 대해서 with Next.js
+		 관희 : 오픈 그래프(Open Graph)에 대해서 with Next.js  </br>
 		 동민 : 음~ 맛있다~ Android Flavor
 	</td>
 </tr>
