@@ -89,10 +89,21 @@
 # 🤖 커리큘럼
 <table align="center" width=100%>
 <tr>
+	<td rowspan="2" colspan=1 align="center">
+		<a href="https://github.com/Pohanghang-Compose/Poteitalk" target="_blank" style="text-decoration: none; color: #1a73e8; font-size: 1.1em; font-weight: bold;">
+			Poteitalk - 다양한 주제로 발표하고 토론해요
+      		</a>
+	</td>
+</tr>
+
+</table>
+
+<table align="center" width=100%>
+<tr>
 	<td rowspan="2" colspan=2 align="center">
 		진행 상황
 	</td>
-		<td align="center">
+	<td align="center">
 		진행 전
 	</td>
 	<td align="center">
@@ -653,6 +664,132 @@
 	</td>
 	<td align="center">
 		🙅‍♀️
+	</td>
+	<td align="center">
+		🙆‍♂️
+	</td>
+</tr>
+<tr>
+	<td rowspan="3" colspan="2" align="center">
+		<b>WEEK 14</b>
+		<br>
+		5/15
+	</td>
+	<td colspan="6" align="center">
+		 태희 : Material3 Expressive 톺아보기  </br>
+		 상호 : 네트워크 상태 모니터링 및 Pull-to-Refresh 적용하기
+	</td>
+</tr>
+<tr>
+	<td rowspan="2" colspan=2 align="center">
+		성취도
+	</td>
+		<td align="center">
+		동민
+	</td>
+	<td align="center">
+		관희
+	</td>
+	<td align="center">
+		태희
+	</td>
+	<td align="center">
+		상호
+	</td>
+</tr>
+<tr>
+  <td align="center">
+		🙆‍♂️
+	</td>
+	<td align="center">
+		🙆‍♂️
+	</td>
+	<td align="center">
+		🙆‍♂️
+	</td>
+	<td align="center">
+		🙆‍♂️
+	</td>
+</tr>
+<tr>
+	<td rowspan="3" colspan="2" align="center">
+		<b>WEEK 15</b>
+		<br>
+		5/19
+	</td>
+	<td colspan="6" align="center">
+		 관희 : 딥링크를 알아보자  </br>
+		 태희 : 워치 기기대응 해결해보기
+	</td>
+</tr>
+<tr>
+	<td rowspan="2" colspan=2 align="center">
+		성취도
+	</td>
+		<td align="center">
+		동민
+	</td>
+	<td align="center">
+		관희
+	</td>
+	<td align="center">
+		태희
+	</td>
+	<td align="center">
+		상호
+	</td>
+</tr>
+<tr>
+  <td align="center">
+		🙆‍♂️
+	</td>
+	<td align="center">
+		🙆‍♂️
+	</td>
+	<td align="center">
+		🙆‍♂️
+	</td>
+	<td align="center">
+		🙆‍♂️
+	</td>
+</tr>
+<tr>
+	<td rowspan="3" colspan="2" align="center">
+		<b>WEEK 16</b>
+		<br>
+		5/27
+	</td>
+	<td colspan="6" align="center">
+		 상호 : ProductFlavor를 사용해서 Mock 버전의 Fake 앱 구현하기  </br>
+		 동민 : Android 15 - 16KB Page Size 대응
+	</td>
+</tr>
+<tr>
+	<td rowspan="2" colspan=2 align="center">
+		성취도
+	</td>
+		<td align="center">
+		동민
+	</td>
+	<td align="center">
+		관희
+	</td>
+	<td align="center">
+		태희
+	</td>
+	<td align="center">
+		상호
+	</td>
+</tr>
+<tr>
+  <td align="center">
+		🙆‍♂️
+	</td>
+	<td align="center">
+		🙆‍♂️
+	</td>
+	<td align="center">
+		🙆‍♂️
 	</td>
 	<td align="center">
 		🙆‍♂️
